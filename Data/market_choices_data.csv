@@ -1,0 +1,4 @@
+initialFractionalValue,fractionalValue,sourceId,name,winning,change,structureType,marketId,marketName,isLive,fid,suspended,id,choices
+21/20,21/20,972198380,1,True,0,1,1,Full time,False,141146607,False,1154435597,"{'initialFractionalValue': '21/20', 'fractionalValue': '21/20', 'sourceId': 972198380, 'name': '1', 'winning': True, 'change': 0}"
+5/2,5/2,972198381,X,False,0,1,1,Full time,False,141146607,False,1154435597,"{'initialFractionalValue': '5/2', 'fractionalValue': '5/2', 'sourceId': 972198381, 'name': 'X', 'winning': False, 'change': 0}"
+21/10,21/10,972198382,2,False,0,1,1,Full time,False,141146607,False,1154435597,"{'initialFractionalValue': '21/10', 'fractionalValue': '21/10', 'sourceId': 972198382, 'name': '2', 'winning': False, 'change': 0}"

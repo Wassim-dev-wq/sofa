@@ -1,0 +1,21 @@
+descriptions,position,matches,wins,scoresFor,scoresAgainst,id,losses,draws,points,team.name,team.slug,team.shortName,team.gender,team.sport.name,team.sport.slug,team.sport.id,team.userCount,team.nameCode,team.disabled,team.national,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text,promotion.text,promotion.id
+[],1,0,0,0,0,867876,0,0,0,Athletic Club,athletic-club,Athletic Club,M,Football,football,1,99414,ATH,False,False,0,2825,#aa0000,#ffffff,#ffffff,Champions League,804.0
+[],2,0,0,0,0,867877,0,0,0,Atlético Madrid,atletico-madrid,Atl. Madrid,M,Football,football,1,495378,ATM,False,False,0,2836,#ffffff,#c40000,#c40000,Champions League,804.0
+[],3,0,0,0,0,867878,0,0,0,Osasuna,osasuna,Osasuna,M,Football,football,1,63047,OSA,False,False,0,2820,#cc0000,#14213d,#14213d,Champions League,804.0
+[],4,0,0,0,0,867879,0,0,0,Cádiz,cadiz,Cádiz,M,Football,football,1,45193,CAD,False,False,0,4488,#ffff00,#001d43,#001d43,Champions League,804.0
+[],5,0,0,0,0,867880,0,0,0,Deportivo Alavés,deportivo-alaves,Alavés,M,Football,football,1,28939,ALA,,False,0,2885,#0232a0,#ffffff,#ffffff,UEFA Europa League,808.0
+[],6,0,0,0,0,867881,0,0,0,Barcelona,barcelona,Barcelona,M,Football,football,1,1390911,FCB,False,False,0,2817,#154284,#9d1009,#9d1009,UEFA Conference League Qualification,1349.0
+[],7,0,0,0,0,867882,0,0,0,Getafe,getafe,Getafe,M,Football,football,1,50806,GET,False,False,0,2859,#00369e,#ffffff,#ffffff,,
+[],8,0,0,0,0,867883,0,0,0,Girona,girona,Girona,M,Football,football,1,48317,GIR,False,False,0,24264,#ffffff,#ff0000,#ff0000,,
+[],9,0,0,0,0,867884,0,0,0,Granada,granada,Granada,M,Football,football,1,33810,GCF,False,False,0,33779,#cc0000,#ffffff,#ffffff,,
+[],10,0,0,0,0,867885,0,0,0,Rayo Vallecano,rayo-vallecano,Rayo Vallecano,M,Football,football,1,54952,RVC,False,False,0,2818,#ffffff,#ffffff,#ffffff,,
+[],11,0,0,0,0,867886,0,0,0,Celta Vigo,celta-vigo,Celta,M,Football,football,1,61931,RCC,False,False,0,2821,#6cace4,#ffffff,#ffffff,,
+[],12,0,0,0,0,867887,0,0,0,Mallorca,mallorca,Mallorca,M,Football,football,1,47901,MAL,False,False,0,2826,#cc0000,#000000,#000000,,
+[],13,0,0,0,0,867888,0,0,0,Real Betis,real-betis,Betis,M,Football,football,1,126814,RBB,False,False,0,2816,#ffffff,#006633,#006633,,
+[],14,0,0,0,0,867889,0,0,0,Real Madrid,real-madrid,Real Madrid,M,Football,football,1,1489172,RMA,False,False,0,2829,#ffffff,#004996,#004996,,
+[],15,0,0,0,0,867890,0,0,0,Real Sociedad,real-sociedad,Real Sociedad,M,Football,football,1,129194,RSO,False,False,0,2824,#ffffff,#0077c7,#0077c7,,
+[],16,0,0,0,0,867891,0,0,0,Sevilla,sevilla,Sevilla,M,Football,football,1,263307,SEV,False,False,0,2833,#ffffff,#cc1020,#cc1020,,
+[],17,0,0,0,0,867892,0,0,0,Almería,almeria,Almería,M,Football,football,1,40737,ALM,False,False,0,2858,#ff0000,#ffffff,#ffffff,,
+[],18,0,0,0,0,867893,0,0,0,Las Palmas,las-palmas,Las Palmas,M,Football,football,1,23520,LPA,,False,0,6577,#e8f541,#f3f845,#f3f845,Relegation,3.0
+[],19,0,0,0,0,867894,0,0,0,Valencia,valencia,Valencia,M,Football,football,1,114531,VCF,False,False,0,2828,#ffffff,#000000,#000000,Relegation,3.0
+[],20,0,0,0,0,867895,0,0,0,Villarreal,villarreal,Villarreal,M,Football,football,1,182455,VIL,False,False,0,2819,#ffff00,#013765,#013765,Relegation,3.0
