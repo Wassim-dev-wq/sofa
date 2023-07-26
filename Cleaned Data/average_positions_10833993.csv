@@ -1,30 +1,30 @@
-averageX,averageY,pointsCount,player_name,player_shortName,player_position,player_id,team
-57.609302325581,87.293023255814,43,Nicoline Sørensen,N. Sørensen,F,282377,home
-47.549206349206,72.939682539683,63,Kathrine Møller Kühl,K. M. Kühl,M,1113614,home
-30.604838709677,34.770967741935,124,Stine Pedersen,S. Pedersen,D,961942,home
-71.338888888889,45.911111111111,18,Signe Bruun,S. Bruun,F,343255,home
-66.985714285714,72.114285714286,14,Rikke Madsen,R. Madsen,F,973952,home
-51.057258064516,81.126612903226,124,Katrine Veje,K. Veje,D,80597,home
-52.997872340426,32.827659574468,47,Janni Thomsen,J. Thomsen,M,973956,home
-61.66,18.65,10,Amalie Jørgensen Vangsgaard,A. J. Vangsgaard,F,1136176,home
-48.426086956522,39.046376811594,69,Josefine Hasbo,J. Hasbo,M,998118,home
-32.700806451613,63.329032258064,124,Simone Boye Sørensen,S. B. Sørensen,D,114838,home
-70.156862745098,57.998039215686,51,Pernille Harder,P. Harder,F,91248,home
-9.6367346938776,49.775510204082,49,Lene Christensen,L. Christensen,G,1184595,home
-48.342666666667,14.932,75,Rikke Sevecke,R. Sevecke,D,793179,home
-46.959574468085,52.847872340426,94,Karen Holmgaard,K. Holmgaard,M,937372,home
-61.05,46.9625,48,Jiahui Lou,J. Lou,D,38464,away
-10.403333333333,48.08,30,Xu Huan,X. Huan,G,985542,away
-56.647368421053,19.105263157895,38,Zhang Xin,Z. Xin,M,796649,away
-53.921052631579,28.089473684211,38,Wang Shuang,W. Shuang,F,256433,away
-35.544444444444,13.033333333333,9,Chen Gao,C. Gao,D,845591,away
-51.523529411765,16.858823529412,17,Mengyu Shen,M. Shen,M,944516,away
-41.932110091743,29.765137614679,109,Rui Zhang,R. Zhang,M,106630,away
-59.231428571429,66.875714285714,70,Linyan Zhang,L. Zhang,M,945623,away
-44.711688311688,57.909090909091,77,Yang Lina,Y. Lina,M,947074,away
-58.62,61.32,5,Yasha Gu,Y. Gu,M,38468,away
-39.45,7.6,74,Li Mengwen,L. Mengwen,D,1004570,away
-35.592857142857,69.631428571429,70,Yao Wei,Y. Wei,M,985550,away
-43.384337349398,81.279518072289,83,Chen Qiaozhu,C. Qiaozhu,D,1480265,away
-28.656756756757,35.409459459459,74,Wang Shanshan,W. Shanshan,F,796640,away
-59.634782608696,40.927536231884,69,Wu Chengshu,W. Chengshu,M,1172565,away
+averageX,averageY,player_name,player_shortName,player_position,team
+57.609302325581,87.293023255814,Nicoline Sørensen,N. Sørensen,F,home
+47.549206349206,72.939682539683,Kathrine Møller Kühl,K. M. Kühl,M,home
+30.604838709677,34.770967741935,Stine Pedersen,S. Pedersen,D,home
+71.338888888889,45.911111111111,Signe Bruun,S. Bruun,F,home
+66.985714285714,72.114285714286,Rikke Madsen,R. Madsen,F,home
+51.057258064516,81.126612903226,Katrine Veje,K. Veje,D,home
+52.997872340426,32.827659574468,Janni Thomsen,J. Thomsen,M,home
+61.66,18.65,Amalie Jørgensen Vangsgaard,A. J. Vangsgaard,F,home
+48.426086956522,39.046376811594,Josefine Hasbo,J. Hasbo,M,home
+32.700806451613,63.329032258064,Simone Boye Sørensen,S. B. Sørensen,D,home
+70.156862745098,57.998039215686,Pernille Harder,P. Harder,F,home
+9.6367346938776,49.775510204082,Lene Christensen,L. Christensen,G,home
+48.342666666667,14.932,Rikke Sevecke,R. Sevecke,D,home
+46.959574468085,52.847872340426,Karen Holmgaard,K. Holmgaard,M,home
+61.05,46.9625,Jiahui Lou,J. Lou,D,away
+10.403333333333,48.08,Xu Huan,X. Huan,G,away
+56.647368421053,19.105263157895,Zhang Xin,Z. Xin,M,away
+53.921052631579,28.089473684211,Wang Shuang,W. Shuang,F,away
+35.544444444444,13.033333333333,Chen Gao,C. Gao,D,away
+51.523529411765,16.858823529412,Mengyu Shen,M. Shen,M,away
+41.932110091743,29.765137614679,Rui Zhang,R. Zhang,M,away
+59.231428571429,66.875714285714,Linyan Zhang,L. Zhang,M,away
+44.711688311688,57.909090909091,Yang Lina,Y. Lina,M,away
+58.62,61.32,Yasha Gu,Y. Gu,M,away
+39.45,7.6,Li Mengwen,L. Mengwen,D,away
+35.592857142857,69.631428571429,Yao Wei,Y. Wei,M,away
+43.384337349398,81.279518072289,Chen Qiaozhu,C. Qiaozhu,D,away
+28.656756756757,35.409459459459,Wang Shanshan,W. Shanshan,F,away
+59.634782608696,40.927536231884,Wu Chengshu,W. Chengshu,M,away

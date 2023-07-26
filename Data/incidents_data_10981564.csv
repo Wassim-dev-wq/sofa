@@ -1,0 +1,19 @@
+text,homeScore,awayScore,isLive,time,addedTime,incidentType,id,isHome,incidentClass,reversedPeriodTime,player.name,player.firstName,player.lastName,player.slug,player.shortName,player.position,player.userCount,player.id,assist1.name,assist1.firstName,assist1.lastName,assist1.slug,assist1.shortName,assist1.position,assist1.userCount,assist1.id,playerIn.name,playerIn.firstName,playerIn.lastName,playerIn.slug,playerIn.shortName,playerIn.position,playerIn.userCount,playerIn.id,playerOut.name,playerOut.firstName,playerOut.lastName,playerOut.slug,playerOut.shortName,playerOut.position,playerOut.userCount,playerOut.id,length,playerName,reason,rescinded
+FT,3.0,0.0,False,90,999.0,period,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3.0,0.0,,90,3.0,goal,170511899.0,True,regular,1.0,Facundo Echevarría,Facundo Echevarría,,facundo-echevarria,F. Echevarría,M,10.0,1094181.0,Benjamin Schamine,Benjamín Schamine,,schamine-benjamin,B. Schamine,M,2.0,1485083.0,,,,,,,,,,,,,,,,,,,,
+,,,,90,,substitution,121901135.0,True,,1.0,,,,,,,,,,,,,,,,,Benjamin Schamine,Benjamín Schamine,,schamine-benjamin,B. Schamine,M,2.0,1485083.0,Santiago Solari,,,solari-santiago,S. Solari,M,45.0,1104323.0,,,,
+,,,,90,0.0,injuryTime,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0,,,
+,,,,89,,substitution,121901134.0,True,,2.0,,,,,,,,,,,,,,,,,Santiago Ramos Mingo,,,ramos-mingo-santiago,S. R. Mingo,D,595.0,989843.0,Kevin Gutiérrez,,,kevin-gutierrez,K. Gutiérrez,M,94.0,914145.0,,,,
+,,,,88,,card,120829157.0,False,yellowRed,3.0,Emiliano Méndez,,,emiliano-mendez,E. Méndez,M,5.0,841958.0,,,,,,,,,,,,,,,,,,,,,,,,,,Emiliano Méndez,Foul,False
+,,,,85,,card,120829156.0,False,yellow,6.0,Jean Rosso,,,jean-rosso,J. Rosso,D,28.0,924891.0,,,,,,,,,,,,,,,,,,,,,,,,,,Jean Rosso,Foul,False
+,,,,84,,substitution,121901131.0,True,,7.0,,,,,,,,,,,,,,,,,Facundo Echevarría,Facundo Echevarría,,facundo-echevarria,F. Echevarría,M,10.0,1094181.0,Gastón Togni,,,gaston-togni,G. Togni,M,133.0,868361.0,,,,
+,,,,66,,substitution,121901110.0,True,,25.0,,,,,,,,,,,,,,,,,Tomás Escalante,,,tomas-escalante,T. Escalante,M,19.0,1017377.0,David Barbona,,,david-barbona,D. Barbona,M,64.0,789910.0,,,,
+,,,,66,,card,120829138.0,False,yellow,25.0,Emiliano Méndez,,,emiliano-mendez,E. Méndez,M,5.0,841958.0,,,,,,,,,,,,,,,,,,,,,,,,,,Emiliano Méndez,Foul,False
+,,,,63,,substitution,121901106.0,False,,28.0,,,,,,,,,,,,,,,,,Javier Toledo,,,javier-toledo,J. Toledo,F,55.0,33776.0,Lisandro López,,,lisandro-lopez,L. López,F,337.0,13207.0,,,,
+,,,,63,,substitution,121901105.0,False,,28.0,,,,,,,,,,,,,,,,,Guido Mainero,,,guido-mainero,G. Mainero,M,25.0,895232.0,Manuel Mónaco,Manuel Mónaco,,manuel-monaco,M. Mónaco,M,27.0,1179175.0,,,,
+,2.0,0.0,,54,,goal,170511394.0,True,regular,37.0,David Barbona,,,david-barbona,D. Barbona,M,64.0,789910.0,Santiago Solari,,,solari-santiago,S. Solari,M,45.0,1104323.0,,,,,,,,,,,,,,,,,,,,
+,,,,46,,substitution,121901090.0,False,,45.0,,,,,,,,,,,,,,,,,Sergio Quiroga,,,sergio-quiroga,S. Quiroga,M,15.0,885010.0,Gabriel Díaz,Gabriel Díaz,,gabriel-diaz,G. Díaz,D,28.0,1199053.0,,,,
+,,,,46,,substitution,121901088.0,False,,45.0,,,,,,,,,,,,,,,,,Emiliano Méndez,,,emiliano-mendez,E. Méndez,M,5.0,841958.0,Harrinson Mancilla,,,harrinson-mancilla,H. Mancilla,M,41.0,869952.0,,,,
+,,,,46,,substitution,121901087.0,False,,45.0,,,,,,,,,,,,,,,,,Alejandro Donatti,,,alejandro-donatti,A. Donatti,D,28.0,249425.0,Franco Sbuttoni,,,franco-sbuttoni,F. Sbuttoni,D,6.0,830753.0,,,,
+HT,1.0,0.0,False,45,999.0,period,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1.0,0.0,,11,,goal,170510660.0,True,regular,35.0,Nicolás Tripichio,,,nicolas-tripichio,N. Tripichio,D,86.0,358924.0,Gastón Togni,,,gaston-togni,G. Togni,M,133.0,868361.0,,,,,,,,,,,,,,,,,,,,

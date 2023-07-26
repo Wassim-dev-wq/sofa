@@ -1,0 +1,5 @@
+descriptions,position,matches,wins,scoresFor,scoresAgainst,id,losses,draws,points,team.name,team.slug,team.shortName,team.gender,team.sport.name,team.sport.slug,team.sport.id,team.userCount,team.nameCode,team.disabled,team.national,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text,promotion.text,promotion.id
+[],1,2,1,2,0,796635,0,1,4,Switzerland,switzerland,Switzerland,F,Football,football,1,6194,SUI,False,True,0,38103,#ff0000,#ffffff,#ffffff,Playoffs,6.0
+[],2,2,1,1,1,796632,1,0,3,New Zealand,new-zealand,New Zealand,F,Football,football,1,3171,NZL,False,True,0,7419,#ffffff,#000000,#000000,Playoffs,6.0
+[],3,2,1,1,2,796634,1,0,3,Philippines,philippines,Philippines,F,Football,football,1,2492,PHI,False,True,0,195588,#ffffff,#0000ff,#0000ff,,
+[],4,2,0,0,1,796633,1,1,1,Norway,norway,Norway,F,Football,football,1,6633,NOR,False,True,0,7422,#ef2b2d,#001f5b,#001f5b,,

@@ -1,0 +1,11 @@
+descriptions,position,matches,wins,scoresFor,scoresAgainst,id,losses,draws,points,team.name,team.slug,team.shortName,team.gender,team.sport.name,team.sport.slug,team.sport.id,team.userCount,team.nameCode,team.disabled,team.national,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text,promotion.text,promotion.id
+[],1,1,1,6,1,865655,0,0,3,NK Osijek,nk-osijek,Osijek,M,Football,football,1,22879,OSI,False,False,0,2040,#08246d,#ffffff,#ffffff,Champions League Qualification,24.0
+[],2,1,1,4,0,865652,0,0,3,HNK Rijeka,hnk-rijeka,Rijeka,M,Football,football,1,26258,RIJ,False,False,0,2039,#ffffff,#6699ff,#6699ff,UEFA Conference League Qualification,1349.0
+[],3,1,0,1,1,865650,0,1,1,HNK Gorica,hnk-gorica,Gorica,M,Football,football,1,10172,GOR,False,False,0,43917,#ff0000,#ffffff,#ffffff,,
+[],4,1,0,1,1,865654,0,1,1,NK Lokomotiva Zagreb,nk-lokomotiva-zagreb,Lokomotiva,M,Football,football,1,10353,LOK,False,False,0,36246,#0000ff,#ffffff,#ffffff,,
+[],5,0,0,0,0,865651,0,0,0,HNK Hajduk Split,hnk-hajduk-split,Hajduk,M,Football,football,1,62457,HAJ,False,False,0,2036,#ffffff,#ffffff,#ffffff,UEFA Conference League Qualification,1349.0
+[],7,0,0,0,0,865653,0,0,0,NK Istra 1961,nk-istra-1961,Istra,M,Football,football,1,9068,IST,False,False,0,25529,#eee447,#222226,#222226,,
+[],7,0,0,0,0,865658,0,0,0,NK Varaždin,nk-varazdin,Varaždin,M,Football,football,1,8362,VAR,False,False,0,231380,#004194,#ffffff,#ffffff,,
+[],8,0,0,0,0,865656,0,0,0,NK Rudeš,nk-rudes,Rudeš,M,Football,football,1,4868,RUD,False,False,0,35226,#0163ac,#ffffff,#ffffff,,
+[],9,0,0,0,0,865657,0,0,0,NK Slaven Belupo,nk-slaven-belupo,Slaven,M,Football,football,1,7897,SLA,False,False,0,2042,#4f6abc,#ffffff,#ffffff,Relegation,3.0
+[],10,1,0,1,2,865649,1,0,0,GNK Dinamo Zagreb,gnk-dinamo-zagreb,Dinamo,M,Football,football,1,122203,DIN,False,False,0,2032,#0b59a1,#ffffff,#ffffff,,

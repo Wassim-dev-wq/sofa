@@ -1,0 +1,5 @@
+descriptions,position,matches,wins,scoresFor,scoresAgainst,id,losses,draws,points,team.name,team.slug,team.shortName,team.gender,team.sport.name,team.sport.slug,team.sport.id,team.userCount,team.nameCode,team.disabled,team.national,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text,promotion.text,promotion.id
+[],1,1,1,6,0,796661,0,0,3,Germany,germany,Germany,F,Football,football,1,19388,GER,False,True,0,23992,#ffffff,#000000,#000000,Playoffs,6.0
+[],2,1,1,2,0,796660,0,0,3,Colombia,colombia,Colombia,F,Football,football,1,9074,COL,False,True,0,46631,#ffd808,#000066,#000066,Playoffs,6.0
+[],3,1,0,0,2,796662,1,0,0,South Korea,south-korea,South Korea,F,Football,football,1,3594,KOR,False,True,0,21922,#ff0000,#0000ff,#0000ff,,
+[],4,1,0,0,6,796663,1,0,0,Morocco,morocco,Morocco,F,Football,football,1,10102,MOR,False,True,0,261908,#ff0000,#006600,#006600,,

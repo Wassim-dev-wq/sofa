@@ -1,0 +1,32 @@
+averageX,averageY,pointsCount,player_name,player_slug,player_shortName,player_position,player_userCount,player_id,player_firstName,player_lastName,team
+35.46,31.206,100,Ignacio Vazquez,ignacio-vazquez,I. Vazquez,D,6,883922,,,home
+62.908823529412,73.217647058824,34,Sasha Marcich,sasha-marcich,S. Marcich,D,41,992126,,,home
+13.516216216216,52.835135135135,37,Ramiro Macagno,ramiro-macagno,R. Macagno,G,51,818326,,,home
+51.082222222222,37.535555555556,45,Franco Díaz,franco-diaz,F. Díaz,M,60,1018402,,,home
+58.571111111111,23.846666666667,45,Ronaldo Martinez,ronaldo-martinez,R. Martinez,F,67,874452,,,home
+65.708333333333,63.536111111111,36,Nicolás Servetto,servetto-nicolas,N. Servetto,F,71,838304,,,home
+54.032352941176,50.488235294118,34,Vicente Taborda,vicente-taborda,V. Taborda,M,294,1131037,Vicente Taborda,,home
+71.1,66.727272727273,11,Maximiliano Zalazar,maximiliano-zalazar,M. Zalazar,F,82,1067653,Maximiliano Zalazar,,home
+47.76,18.02,10,‪Ignacio Schor,ignacio-schor,‪I. Schor,M,101,1092305,,,home
+47.585507246377,10.065217391304,69,Raúl Lozano,raul-lozano,R. Lozano,D,19,884971,,,home
+69.5,20.35,2,Nadir Zeineddin,nadir-zeineddin,N. Zeineddin,F,12,1093117,,,home
+50.825925925926,89.307407407407,54,Juan Infante,juan-infante,J. Infante,D,4,941542,,,home
+54.398630136986,62.442465753425,73,Nicolás Castro,nicolas-castro,N. Castro,M,34,896985,,,home
+41.566304347826,51.521739130435,92,Iván Rossi,ivan-rossi,I. Rossi,M,29,581728,,,home
+31.866304347826,66.828260869565,92,Marco Pellegrino,pellegrino-marco,M. Pellegrino,D,46,1095023,Marco Pellegrino,,home
+56.47619047619,19.352380952381,42,Walter Mazzantti,walter-mazzantti,W. Mazzantti,F,28,861339,,,away
+52.359649122807,89.505263157895,57,Guillermo Benitez,guillermo-benitez,G. Benitez,D,12,830583,,,away
+45.672619047619,44.035714285714,84,Santiago Hezze,santiago-hezze,S. Hezze,M,570,989886,,,away
+10.284905660377,45.677358490566,53,Lucas Cháves,lucas-chaves,L. Cháves,G,83,789855,,,away
+57.448717948718,45.910256410256,39,Nicolás Cordero,nicolas-cordero,N. Cordero,F,125,860051,,,away
+67.320512820513,50.623076923077,39,Matías Cóccaro,matias-coccaro,M. Cóccaro,F,197,903286,,,away
+39.078571428571,82.842857142857,14,César Ibáñez,cesar-ibanez,C. Ibáñez,D,57,988327,,,away
+60.20625,44.79375,16,Juan Manuel García,juan-manuel-garcia,J. M. García,F,74,830755,,,away
+29.488571428571,68.764285714286,70,Lucas Carrizo,lucas-carrizo,L. Carrizo,D,4,871798,,,away
+62.490740740741,79.962962962963,54,Juan Gauto,juan-gauto,J. Gauto,M,496,1018426,,,away
+23.65,44.55,2,Patricio Pizarro,patricio-pizarro,P. Pizarro,D,17,1384823,Patricio Pizarro,,away
+46.206756756757,58.263513513514,74,Agostino Spina,agostino-spina,A. Spina,M,24,1103068,Agostino Spina,,away
+79.957142857143,15.628571428571,7,Enzo Luna,enzo-luna,E. Luna,F,9,1385677,Enzo Luna,,away
+99.5,0.5,1,Jonas Acevedo,jonas-acevedo,J. Acevedo,M,22,875895,,,away
+30.856338028169,29.350704225352,71,Fernando Tobio,fernando-tobio,F. Tobio,D,34,80918,,,away
+43.398765432099,14.932098765432,81,Guillermo Soto,guillermo-soto,G. Soto,D,269,924526,,,away

@@ -1,0 +1,14 @@
+text,homeScore,awayScore,isLive,time,addedTime,incidentType,id,isHome,reversedPeriodTime,playerIn.name,playerIn.slug,playerIn.shortName,playerIn.position,playerIn.userCount,playerIn.id,playerOut.name,playerOut.firstName,playerOut.lastName,playerOut.slug,playerOut.shortName,playerOut.position,playerOut.userCount,playerOut.id,injury,incidentClass,playerIn.firstName,playerIn.lastName,description,player.name,player.slug,player.shortName,player.position,player.userCount,player.id,length,confirmed,player.firstName,player.lastName,playerName,reason,rescinded,assist1.name,assist1.firstName,assist1.lastName,assist1.slug,assist1.shortName,assist1.position,assist1.userCount,assist1.id
+FT,1.0,0.0,False,90,999.0,period,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,90,4.0,substitution,121893483.0,True,1.0,Gabi Rennie,rennie-gabi,G. Rennie,F,22.0,1130450.0,Jacqui Hand,,,hand-jacqui,J. Hand,F,34.0,1154468.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,90,3.0,substitution,121893484.0,False,1.0,Anja Sønstevold,anja-sonstevold,A. Sønstevold,D,27.0,68151.0,Thea Bjelde,,,bjelde-thea,T. Bjelde,M,32.0,905835.0,True,injury,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,90,,inGamePenalty,118427754.0,True,1.0,,,,,,,,,,,,,,,,missed,,,Woodwork,Ria Percival,ria-percival,R. Percival,D,31.0,29126.0,,,,,,,,,,,,,,,
+,,,,90,0.0,injuryTime,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0,,,,,,,,,,,,,,
+,,,,88,,varDecision,18978.0,True,3.0,,,,,,,,,,,,,,,,penaltyNotAwarded,,,,Malia Steinmetz,steinmetz-malia,M. Steinmetz,M,29.0,1096340.0,,False,Malia Steinmetz,,,,,,,,,,,,
+,,,,86,,substitution,121893480.0,True,5.0,Paige Satchell,paige-satchell,P. Satchell,M,17.0,985694.0,Hannah Wilkinson,,,hannah-wilkinson,H. Wilkinson,F,102.0,121374.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,85,,card,120825096.0,False,6.0,,,,,,,,,,,,,,,,yellow,,,,Emilie Haavi,emilie-haavi,E. Haavi,F,56.0,36345.0,,,,,Emilie Haavi,Foul,False,,,,,,,,
+,,,,74,,substitution,121893470.0,False,17.0,Vilde Bøe Risa,vilde-boe-risa,V. B. Risa,M,142.0,997955.0,Frida Maanum,,,maanum-frida,F. Maanum,M,268.0,878675.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,70,,substitution,121893468.0,True,21.0,Claudia Bunge,claudia-bunge,C. Bunge,D,8.0,1004568.0,Rebekah Stott,,,rebekah-stott,R. Stott,M,16.0,242293.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,56,,substitution,121893466.0,False,35.0,Emilie Haavi,emilie-haavi,E. Haavi,F,56.0,36345.0,Julie Blakstad,,,blakstad-julie,J. Blakstad,F,92.0,981905.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1.0,0.0,,48,,goal,170403676.0,True,43.0,,,,,,,,,,,,,,,,regular,,,,Hannah Wilkinson,hannah-wilkinson,H. Wilkinson,F,102.0,121374.0,,,,,,,,Jacqui Hand,,,hand-jacqui,J. Hand,F,34.0,1154468.0
+HT,0.0,0.0,False,45,999.0,period,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,33 @@
+averageX,averageY,pointsCount,player_name,player_firstName,player_lastName,player_slug,player_shortName,player_position,player_userCount,player_id,team
+37.002173913043,59.102173913043,46,Marcel,,,marcel,Marcel,D,16,870692,home
+73.611111111111,44.637037037037,27,Brayan Kruger,Brayan Kruger,,brayan-kruger,B. Kruger,F,16,1086456,home
+37.903571428571,58.539285714286,28,Rafael Pereira,,,rafael-pereira,R. Pereira,D,18,44356,home
+69.066666666667,12.597222222222,36,Hélio Borges,,,helio-borges,Hélio Borges,F,25,1019256,home
+52.225,17.38,20,Iury,,,iury,Iury,D,10,950329,home
+69.65,37.15,6,Gabriel Stevanato,,,gabriel-stevanato,G. Stevanato,F,1,1514736,home
+70.365217391304,54.921739130435,23,Eduardo Person,,,eduardo-person,E. Person,M,31,938482,home
+69.785897435897,81.546153846154,78,Felipe Saraiva,,,felipe-saraiva,F. Saraiva,F,49,882076,home
+48.192380952381,13.537142857143,105,Guilherme Pacheco,,,guilherme-pacheco,Guilherme Pacheco,D,10,330323,home
+12.348076923077,50.892307692308,52,Jefferson Paulino,,,jefferson-paulino,J. Paulino,G,86,870954,home
+73.27,14.884,50,Robinho,Robinho,,robinho,Robinho,F,7,1119736,home
+65.839622641509,66.690566037736,53,Yann Rollim,,,yann-rollim,Y. Rollim,M,26,592022,home
+52.182178217822,46.30198019802,101,José Aldo,,,jose-aldo,J. Aldo,M,50,988851,home
+63.780952380952,32.861904761905,63,Rafael Carvalheira,Rafael,Carvalheira,rafael-carvalheira,R. Carvalheira,M,13,1120738,home
+49.4775,84.475,80,Richard,Richard,,richard,Richard,M,8,1498671,home
+39.836363636364,36.494805194805,77,Claudinho,,,claudinho,Claudinho,D,9,866864,home
+23.783333333333,91.366666666667,6,Felipe Camargo,Felipe Camargo,,felipe-camargo,Felipe Camargo,D,2,1047840,away
+8.0913043478261,48.330434782609,46,Igor Bohn,,,igor-bohn,Igor,G,14,881483,away
+37.951612903226,46.425806451613,31,Jean Cleber,,,jean-cleber,J. Cleber,M,24,842286,away
+41.194642857143,55.810714285714,56,Wellington,,,wellington,Wellington,M,85,39396,away
+24.768965517241,38.884482758621,58,Roberto,,,roberto,Roberto,D,51,973751,away
+45.738888888889,55.627777777778,36,Denílson,,,denilson,Denílson,F,63,331855,away
+45.38125,71.878125,32,Eduardo Biasi,,,eduardo-biasi,E. Biasi,M,27,870800,away
+48.186666666667,64.286666666667,15,Xavier,,,xavier,Xavier,M,192,927216,away
+56.575,86.641666666667,36,Felipe Rocha,Felipe Rocha,,felipe-rocha,F. Rocha,F,13,1429871,away
+40.723076923077,37.423076923077,13,Fellipe Bastos,,,fellipe-bastos,F. Bastos,M,105,42109,away
+46.873170731707,57.939024390244,41,Rafael Gava,,,rafael-gava,R. Gava,M,87,870920,away
+69.885714285714,47.028571428571,7,Santiago Patiño,,,santiago-patino,S. Patiño,F,50,973438,away
+35.501851851852,13.848148148148,54,Igor,,,igor,Igor,D,40,1017027,away
+55.691836734694,21.914285714286,49,William Pottker,,,william-pottker,William Pottker,F,207,243501,away
+24.7484375,68.4953125,64,Lipe,Lipe,,lipe,Lipe,M,41,1129191,away
+38.052808988764,86.350561797753,89,Bruno Cortez,,,bruno-cortez,Bruno Cortez,D,147,165577,away

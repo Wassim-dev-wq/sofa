@@ -1,0 +1,18 @@
+text,homeScore,awayScore,isLive,time,addedTime,incidentType,id,isHome,reversedPeriodTime,playerIn.name,playerIn.firstName,playerIn.lastName,playerIn.slug,playerIn.shortName,playerIn.position,playerIn.userCount,playerIn.id,playerOut.name,playerOut.firstName,playerOut.lastName,playerOut.slug,playerOut.shortName,playerOut.position,playerOut.userCount,playerOut.id,length,playerName,reason,rescinded,incidentClass,player.name,player.slug,player.shortName,player.position,player.userCount,player.id,player.firstName,player.lastName,confirmed
+FT,0.0,2.0,False,90,999.0,period,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,90,,substitution,121894037.0,False,1.0,Meriame Terchoun,,,meriame-terchoun,M. Terchoun,F,45.0,187753.0,Géraldine Reuteler,,,geraldine-reuteler,G. Reuteler,M,59.0,886995.0,,,,,,,,,,,,,,
+,,,,90,,substitution,121894036.0,False,1.0,Nadine Riesen,,,riesen-nadine,N. Riesen,D,25.0,1389930.0,Seraina Piubel,,,seraina-piubel,S. Piubel,M,99.0,998141.0,,,,,,,,,,,,,,
+,,,,90,0.0,injuryTime,,,,,,,,,,,,,,,,,,,,4.0,,,,,,,,,,,,,
+,,,,83,,card,120825423.0,False,8.0,,,,,,,,,,,,,,,,,,Noelle Maritz,Foul,False,yellow,Noelle Maritz,noelle-maritz,N. Maritz,D,128.0,138090.0,,,
+,,,,81,,substitution,121894033.0,True,10.0,Chandler McDaniel,,,mcdaniel-chandler,C. McDaniel,F,10.0,1174050.0,Sarina Bolden,,,bolden-sarina,S. Bolden,F,37.0,1174658.0,,,,,,,,,,,,,,
+,,,,75,,substitution,121894031.0,False,16.0,Sandrine Mauron,,,sandrine-mauron,S. Mauron,M,27.0,286383.0,Lia Wälti,,,lia-walti,L. Wälti,M,259.0,68299.0,,,,,,,,,,,,,,
+,,,,70,,substitution,121894029.0,False,21.0,Alisha Lehmann,,,alisha-lehmann,A. Lehmann,F,4808.0,937402.0,Ramona Bachmann,,,ramona-bachmann,R. Bachmann,F,401.0,68308.0,,,,,,,,,,,,,,
+,,,,70,,substitution,121894027.0,True,21.0,Isabella Flanigan,,,flanigan-isabella,I. Flanigan,D,11.0,1174058.0,Quinley Quezada,,,quinley-quezada,Q. Quezada,M,10.0,1174052.0,,,,,,,,,,,,,,
+,,,,70,,substitution,121894028.0,True,21.0,Meryll Serrano,,,meryll-serrano,M. Serrano,F,5.0,1046641.0,Sara Kristine Eggesvik,,,eggesvik-sara-kristine,S. K. Eggesvik,M,16.0,912760.0,,,,,,,,,,,,,,
+,0.0,2.0,,64,,goal,170428647.0,False,27.0,,,,,,,,,,,,,,,,,,,,,regular,Seraina Piubel,seraina-piubel,S. Piubel,M,99.0,998141.0,,,
+HT,0.0,1.0,False,45,999.0,period,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,0.0,1.0,,45,,goal,170427957.0,False,1.0,,,,,,,,,,,,,,,,,,,,,penalty,Ramona Bachmann,ramona-bachmann,R. Bachmann,F,401.0,68308.0,,,
+,,,,45,0.0,injuryTime,,,,,,,,,,,,,,,,,,,,4.0,,,,,,,,,,,,,
+,,,,43,,varDecision,18983.0,False,3.0,,,,,,,,,,,,,,,,,,,,,penaltyNotAwarded,Coumba Sow,sow-coumba,C. Sow,M,64.0,956481.0,,,False
+,,,,38,,card,120825421.0,True,8.0,,,,,,,,,,,,,,,,,,Sofia Harrison,Foul,False,yellow,Sofia Harrison,harrison-sofia,S. Harrison,D,5.0,1174047.0,,,
+,,,,8,,card,120825419.0,False,38.0,,,,,,,,,,,,,,,,,,Ramona Bachmann,Foul,False,yellow,Ramona Bachmann,ramona-bachmann,R. Bachmann,F,401.0,68308.0,,,

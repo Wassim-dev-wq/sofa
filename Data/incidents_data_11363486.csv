@@ -1,0 +1,29 @@
+text,homeScore,awayScore,isLive,time,addedTime,incidentType,sequence,id,isHome,incidentClass,player.name,player.firstName,player.lastName,player.slug,player.shortName,player.position,player.userCount,player.id,reversedPeriodTime,playerIn.name,playerIn.firstName,playerIn.lastName,playerIn.slug,playerIn.shortName,playerIn.position,playerIn.userCount,playerIn.id,playerOut.name,playerOut.slug,playerOut.shortName,playerOut.position,playerOut.userCount,playerOut.id,playerOut.firstName,playerOut.lastName,rescinded
+PEN,4.0,2.0,False,999.0,999.0,period,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3.0,2.0,,,,penaltyShootout,5.0,118427805.0,False,missed,Florent Ramadani,,,florent-ramadani,F. Ramadani,M,5.0,940729.0,,,,,,,,,,,,,,,,,,
+,3.0,2.0,,,,penaltyShootout,4.0,118427803.0,True,missed,Ben Fawcett,,,ben-fawcett,B. Fawcett,F,1.0,948275.0,,,,,,,,,,,,,,,,,,
+,3.0,2.0,,,,penaltyShootout,4.0,118427802.0,False,scored,Kamer Qaka,,,kamer-qaka,K. Qaka,M,39.0,138273.0,,,,,,,,,,,,,,,,,,
+,3.0,1.0,,,,penaltyShootout,4.0,118427799.0,True,scored,Kai Whitmore,Kai,Whitmore,kai-whitmore,K. Whitmore,M,2.0,1395996.0,,,,,,,,,,,,,,,,,,
+,2.0,1.0,,,,penaltyShootout,3.0,118427797.0,False,missed,Mevlan Adili,,,adili-mevlan,M. Adili,D,4.0,809000.0,,,,,,,,,,,,,,,,,,
+,2.0,1.0,,,,penaltyShootout,3.0,118427794.0,True,scored,Jack Wilson,,,wilson-jack,J. Wilson,M,4.0,948267.0,,,,,,,,,,,,,,,,,,
+,1.0,1.0,,,,penaltyShootout,2.0,118427793.0,False,missed,Eraldo Cinari,,,eraldo-cinari,E. Cinari,M,31.0,891613.0,,,,,,,,,,,,,,,,,,
+,1.0,1.0,,,,penaltyShootout,2.0,118427790.0,True,scored,Jazz Richards,,,jazz-richards,A. Richards,D,14.0,73420.0,,,,,,,,,,,,,,,,,,
+,0.0,1.0,,,,penaltyShootout,1.0,118427788.0,False,scored,Endrit Krasniqi,,,endrit-krasniqi,E. Krasniqi,M,9.0,890649.0,,,,,,,,,,,,,,,,,,
+,0.0,0.0,,,,penaltyShootout,1.0,118427786.0,True,missed,Daniel Hawkins,Daniel Hawkins,,daniel-hawkins,D. Hawkins,F,1.0,1065337.0,,,,,,,,,,,,,,,,,,
+ET,1.0,0.0,False,120.0,999.0,period,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,116.0,,substitution,,121893932.0,True,,,,,,,,,,5.0,Lucas Davies,Lucas Davies,,lucas-davies,L. Davies,D,1.0,1395698.0,Ricky Watts,ricky-watts,R. Watts,D,1.0,808184.0,,,
+,,,,106.0,,substitution,,121893914.0,True,,,,,,,,,,15.0,Harri John,,,harri-john,H. John,M,4.0,1395809.0,Oscar Borg,oscar-borg,O. Borg,D,6.0,895574.0,,,
+,,,,105.0,,substitution,,121893911.0,False,,,,,,,,,,1.0,Florent Ramadani,,,florent-ramadani,F. Ramadani,M,5.0,940729.0,Ennur Totre,ennur-totre,E. Totre,M,23.0,797993.0,,,
+FT,1.0,0.0,False,90.0,999.0,period,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1.0,0.0,,89.0,,goal,,170420441.0,True,regular,Lee Jenkins,Lee Jenkins,,lee-jenkins,L. Jenkins,D,1.0,1395699.0,2.0,,,,,,,,,,,,,,,,,
+,,,,83.0,,substitution,,121893843.0,True,,,,,,,,,,8.0,Ioan Humphreys,,,ioan-humphreys,I. Humphreys,D,0.0,831547.0,Martell Taylor-Crossdale,taylor-crossdale-martell,M. Taylor-Crossdale,F,20.0,904971.0,,,
+,,,,80.0,,substitution,,121893835.0,False,,,,,,,,,,11.0,Metodi Maksimov,,,metodi-maksimov,M. Maksimov,M,9.0,957975.0,Adenis Shala,adenis-shala,A. Shala,F,8.0,987106.0,,,
+,,,,80.0,,card,,120825319.0,True,yellow,Daniel Hawkins,Daniel Hawkins,,daniel-hawkins,D. Hawkins,F,1.0,1065337.0,11.0,,,,,,,,,,,,,,,,,False
+,,,,78.0,,substitution,,121893832.0,True,,,,,,,,,,13.0,Jack Wilson,,,wilson-jack,J. Wilson,M,4.0,948267.0,Tyrese Owen,tyrese-owen,T. Owen,M,1.0,1511087.0,Tyrese Owen,,
+,,,,74.0,,substitution,,121893827.0,False,,,,,,,,,,17.0,Dashmir Elezi,,,dashmir-elezi,D. Elezi,M,53.0,998979.0,Almir Aganspahić,almir-aganspahic,A. Aganspahić,F,27.0,280487.0,,,
+,,,,71.0,,card,,120825313.0,False,yellow,Endrit Krasniqi,,,endrit-krasniqi,E. Krasniqi,M,9.0,890649.0,20.0,,,,,,,,,,,,,,,,,False
+,,,,63.0,,card,,120825307.0,True,yellow,Tyrese Owen,Tyrese Owen,,tyrese-owen,T. Owen,M,1.0,1511087.0,28.0,,,,,,,,,,,,,,,,,False
+,,,,60.0,,card,,120825303.0,False,yellow,Eraldo Cinari,,,eraldo-cinari,E. Cinari,M,31.0,891613.0,31.0,,,,,,,,,,,,,,,,,False
+,,,,58.0,,card,,120825300.0,True,yellow,Kai Whitmore,Kai,Whitmore,kai-whitmore,K. Whitmore,M,2.0,1395996.0,33.0,,,,,,,,,,,,,,,,,False
+HT,0.0,0.0,False,45.0,999.0,period,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,45.0,,card,,120825275.0,True,yellow,Ben Fawcett,,,ben-fawcett,B. Fawcett,F,1.0,948275.0,1.0,,,,,,,,,,,,,,,,,False

@@ -1,0 +1,5 @@
+descriptions,position,matches,wins,scoresFor,scoresAgainst,id,losses,draws,points,team.name,team.slug,team.shortName,team.gender,team.sport.name,team.sport.slug,team.sport.id,team.userCount,team.nameCode,team.disabled,team.national,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text,promotion.text,promotion.id
+[],1,1,1,3,0,796650,0,0,3,USA,usa,USA,F,Football,football,1,15327,USA,False,True,0,7424,#ffffff,#ff0000,#ff0000,Playoffs,6.0
+[],2,1,1,1,0,796649,0,0,3,Netherlands,netherlands,Netherlands,F,Football,football,1,15663,NED,False,True,0,32484,#ff6600,#281fe0,#281fe0,Playoffs,6.0
+[],3,1,0,0,1,839827,1,0,0,Portugal,portugal,Portugal,F,Football,football,1,15365,POR,False,True,0,22027,#cc0000,#66cc66,#66cc66,,
+[],4,1,0,0,3,796651,1,0,0,Vietnam,vietnam,Vietnam,F,Football,football,1,4154,VIE,False,True,0,132958,#ff0000,#ffff00,#ffff00,,

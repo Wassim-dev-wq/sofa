@@ -1,0 +1,21 @@
+descriptions,position,matches,wins,scoresFor,scoresAgainst,id,losses,draws,points,team.name,team.slug,team.shortName,team.gender,team.sport.name,team.sport.slug,team.sport.id,team.userCount,team.nameCode,team.disabled,team.national,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text,promotion.text,promotion.id
+[],1,10,8,21,6,838065,1,1,25,Sport Recife,sport-recife,Sport Recife,M,Football,football,1,43095,REC,False,False,0,1959,#cc0000,#000000,#000000,Promotion,11.0
+[],2,9,7,17,7,838060,1,1,22,Guarani,guarani,Guarani,M,Football,football,1,16007,GUA,False,False,0,1972,#006214,#006214,#006214,,
+[],3,9,7,16,6,838058,2,0,21,Vitória,vitoria,Vitória,M,Football,football,1,23493,VIT,False,False,0,1962,#ff0000,#000000,#000000,Promotion,11.0
+[],4,9,6,10,2,838067,0,3,21,Vila Nova,vila-nova,Vila Nova,M,Football,football,1,17647,VIN,False,False,0,2021,#ff0000,#ffffff,#ffffff,Promotion,11.0
+[],5,10,6,12,7,838063,2,2,20,Mirassol,mirassol,Mirassol,M,Football,football,1,11292,MIR,False,False,0,21982,#e8c728,#174c30,#174c30,,
+[],6,10,6,13,7,838056,3,1,19,Criciúma,criciuma,Criciúma,M,Football,football,1,16249,CRI,False,False,0,1984,#ffff00,#000000,#000000,,
+[],7,10,5,14,11,838050,1,4,19,Atlético Goianiense,atletico-goianiense,Atlético-GO,M,Football,football,1,26671,GOI,False,False,0,7314,#ff0000,#000000,#000000,,
+[],8,9,5,10,4,838059,2,2,17,Novorizontino,novorizontino,Novorizontino,M,Football,football,1,11367,GRN,False,False,0,135514,#b4982d,#1d2329,#1d2329,Promotion,11.0
+[],9,9,5,12,8,838057,3,1,16,Juventude,juventude,Juventude,M,Football,football,1,20055,JUV,False,False,0,1980,#006600,#ffffff,#ffffff,,
+[],10,9,5,6,8,838052,3,1,16,Botafogo-SP,botafogo-sp,Botafogo-SP,M,Football,football,1,11548,BOT,False,False,0,1979,#ffffff,#ff0000,#ff0000,,
+[],11,9,4,11,9,838055,2,3,15,CRB,crb,CRB,M,Football,football,1,16598,BRA,,False,0,22032,#f20000,#f20000,#f20000,,
+[],12,10,3,7,5,838048,2,5,14,Ponte Preta,ponte-preta,Ponte Preta,M,Football,football,1,16226,PON,False,False,0,1969,#ffffff,#000000,#000000,,
+[],13,9,4,9,11,838053,4,1,13,Ceará,ceara,Ceará,M,Football,football,1,44224,CEA,False,False,0,2001,#000000,#ffffff,#ffffff,,
+[],14,10,3,10,9,838054,3,4,13,Chapecoense,chapecoense,Chapecoense,M,Football,football,1,18737,CHA,False,False,0,21845,#009966,#ffffff,#ffffff,Relegation,3.0
+[],15,10,3,11,12,838064,3,4,13,Sampaio Corrêa,sampaio-correa,Sampaio Corrêa,M,Football,football,1,16092,SCO,False,False,0,2005,#008000,#ff0000,#ff0000,,
+[],16,9,3,11,8,838061,3,3,12,Ituano,ituano,Ituano,M,Football,football,1,14035,ITU,False,False,0,2025,#c1394e,#181d25,#181d25,,
+[],17,10,3,13,13,838066,5,2,11,Tombense,tombense,Tombense,M,Football,football,1,9339,TOM,False,False,0,87202,#ffffff,#ff0000,#ff0000,,
+[],18,9,3,11,12,838062,5,1,10,Londrina,londrina,Londrina,M,Football,football,1,12787,LON,False,False,0,2022,#77bbff,#ffffff,#ffffff,Relegation,3.0
+[],19,9,2,6,12,838051,4,3,9,Avaí,avai,Avaí,M,Football,football,1,17276,AVA,False,False,0,7315,#0066ff,#ffffff,#ffffff,Relegation,3.0
+[],20,9,1,5,12,838049,6,2,5,ABC,abc,ABC,M,Football,football,1,11737,ABC,False,False,0,21838,#f6f4fa,#f6f4fa,#f6f4fa,Relegation,3.0

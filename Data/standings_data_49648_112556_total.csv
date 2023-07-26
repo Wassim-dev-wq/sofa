@@ -1,0 +1,4 @@
+descriptions,position,matches,wins,scoresFor,scoresAgainst,id,losses,draws,points,team.name,team.slug,team.shortName,team.gender,team.sport.name,team.sport.slug,team.sport.id,team.userCount,team.nameCode,team.national,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text,promotion.text,promotion.id
+[],1,1,1,2,1,873859,0,0,3,Nashville SC,nashville-sc,Nashville,M,Football,football,1,8419,NSC,False,0,337612,#0f1545,#ece83a,#ece83a,Playoffs,6.0
+[],2,0,0,0,0,873858,0,0,0,Toluca,toluca,Toluca,M,Football,football,1,13887,TOL,False,0,1931,#d50101,#202b15,#202b15,Playoffs,6.0
+[],3,1,0,1,2,873857,1,0,0,Colorado Rapids,colorado-rapids,Colorado,M,Football,football,1,5892,COL,False,0,2510,#660033,#ffffff,#ffffff,,

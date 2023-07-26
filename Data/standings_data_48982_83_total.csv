@@ -1,0 +1,21 @@
+descriptions,position,matches,wins,scoresFor,scoresAgainst,id,losses,draws,points,team.name,team.slug,team.shortName,team.gender,team.sport.name,team.sport.slug,team.sport.id,team.userCount,team.nameCode,team.disabled,team.national,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text,promotion.text,promotion.id
+[],1,16,13,28,9,834877,2,1,40,Botafogo,botafogo,Botafogo,M,Football,football,1,75496,BOT,False,False,0,1958,#000000,#ffffff,#ffffff,Copa Libertadores,19.0
+[],2,15,9,25,20,834888,4,2,29,Grêmio,gremio,Grêmio,M,Football,football,1,91093,GPA,False,False,0,5926,#3399ff,#000033,#000033,Copa Libertadores,19.0
+[],3,16,8,28,19,834880,4,4,28,Flamengo,flamengo,Flamengo,M,Football,football,1,284779,FLA,False,False,0,5981,#ff0000,#000000,#000000,Copa Libertadores,19.0
+[],4,16,7,28,14,834894,2,7,28,Palmeiras,palmeiras,Palmeiras,M,Football,football,1,193414,PAL,False,False,0,1963,#339966,#336633,#336633,Copa Libertadores,19.0
+[],5,16,8,22,18,834878,6,2,26,Athletico,athletico,Athletico,M,Football,football,1,64168,CAP,False,False,0,1967,#000000,#cc0000,#cc0000,Copa Libertadores Qualification,20.0
+[],6,16,7,23,16,834891,5,4,25,São Paulo,sao-paulo,São Paulo,M,Football,football,1,144593,SPA,False,False,0,1981,#ffffff,#000000,#000000,Copa Libertadores Qualification,20.0
+[],7,16,7,21,16,834885,5,4,25,Fluminense,fluminense,Fluminense,M,Football,football,1,93910,FLU,False,False,0,1961,#660000,#006633,#006633,Copa Sudamericana,21.0
+[],8,16,6,22,16,834889,3,7,25,Red Bull Bragantino,red-bull-bragantino,RB Bragantino,M,Football,football,1,49385,BRA,False,False,0,1999,#363636,#d8d8d6,#d8d8d6,Copa Sudamericana,21.0
+[],9,16,6,17,15,834886,5,5,23,Fortaleza,fortaleza,Fortaleza,M,Football,football,1,61987,FOR,False,False,0,2020,#0000ff,#ff0000,#ff0000,Copa Sudamericana,21.0
+[],10,16,6,13,16,834893,5,5,23,Internacional,internacional,Internacional,M,Football,football,1,80902,INT,False,False,0,1966,#cc0000,#cc0000,#cc0000,Copa Sudamericana,21.0
+[],11,16,6,16,12,834882,6,4,22,Cruzeiro,cruzeiro,Cruzeiro,M,Football,football,1,73672,CRU,False,False,0,1954,#0033cc,#0033cc,#0033cc,Copa Sudamericana,21.0
+[],12,16,6,16,18,834883,6,4,22,Cuiabá,cuiaba,Cuiabá,M,Football,football,1,26115,CUI,False,False,0,49202,#ffffff,#006600,#006600,Copa Sudamericana,21.0
+[],13,16,5,18,15,834876,5,6,21,Atlético Mineiro,atletico-mineiro,Atlético-MG,M,Football,football,1,101789,ATL,False,False,0,1977,#000000,#ffffff,#ffffff,,
+[],14,16,4,18,25,834890,7,5,17,Santos,santos,Santos,M,Football,football,1,80387,SAN,False,False,0,1968,#ffffff,#ffffff,#ffffff,,
+[],15,15,4,12,17,834892,7,4,16,Corinthians,corinthians,Corinthians,M,Football,football,1,161531,COR,False,False,0,1957,#ffffff,#000000,#000000,,
+[],16,16,4,15,26,834887,9,3,15,Goiás,goias,Goiás,M,Football,football,1,33455,GGO,False,False,0,1960,#006633,#ffffff,#ffffff,,
+[],17,16,3,15,23,834884,8,5,14,Bahia,bahia,Bahia,M,Football,football,1,55741,BAH,False,False,0,1955,#ffffff,#333399,#333399,Relegation,3.0
+[],18,16,3,16,28,834879,8,5,14,Coritiba,coritiba,Coritiba,M,Football,football,1,32452,COR,False,False,0,1982,#ffffff,#009966,#009966,Relegation,3.0
+[],19,15,2,17,33,834875,9,4,10,América Mineiro,america-mineiro,América-MG,M,Football,football,1,39882,AMG,False,False,0,1973,#056635,#ffffff,#ffffff,Relegation,3.0
+[],20,15,2,11,25,834881,10,3,9,Vasco,vasco,Vasco,M,Football,football,1,84261,VDG,False,False,0,1974,#ffffff,#000000,#000000,Relegation,3.0

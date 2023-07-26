@@ -1,0 +1,33 @@
+averageX,averageY,pointsCount,player_name,player_firstName,player_lastName,player_slug,player_shortName,player_position,player_userCount,player_id,team
+35.198245614035,49.814035087719,57,Gonzalo Luján,Gonzalo Lujan,,gonzalo-lujan,G. Luján,D,33,1106584,home
+70.107692307692,29.238461538462,13,Diego Perea,,,diego-perea,D. Perea,F,26,1464026,home
+13.221739130435,50.591304347826,46,Augusto Batalla,,,augusto-batalla,A. Batalla,G,161,358910,home
+65.387878787879,34.118181818182,33,Ivan Leguizamon,Ivan Leguizamon,,ivan-leguizamon,I. Leguizamon,M,150,1161823,home
+38.189743589744,25.54358974359,39,Rafael Pérez,,,rafael-perez,R. Pérez,D,132,355846,home
+65.744444444444,55.833333333333,54,Adam Bareiro,,,adam-bareiro,A. Bareiro,F,348,871580,home
+62.365853658537,69.368292682927,41,Nahuel Barrios,,,nahuel-barrios,N. Barrios,F,290,875236,home
+51.048484848485,65.018181818182,33,Agustín Martegani,,,agustin-martegani,A. Martegani,M,178,984926,home
+52.59,72.37,20,Gastón Campi,,,gaston-campi,G. Campi,D,52,351824,home
+39.0,17.3,1,Diego Calcaterra,Diego Calcaterra,,diego-calcaterra,D. Calcaterra,D,21,1086957,home
+75.6,27.6,1,Nicolás Blandi,,,nicolas-blandi,N. Blandi,F,69,128211,home
+66.609090909091,43.181818181818,44,Gonzalo Maroni,,,gonzalo-maroni,G. Maroni,M,335,840510,home
+51.913559322034,16.738983050847,59,Agustín Giay,Agustín Giay,,agustin-giay,A. Giay,M,530,1106603,home
+52.949397590361,86.484337349398,83,Malcom Braida,,,malcom-braida,M. Braida,M,108,994453,home
+46.130208333333,55.730208333333,96,Jalil Elias,,,jalil-elias,J. Elias,M,151,797031,home
+45.476136363636,78.973863636364,88,Gastón Hernández,,,gaston-hernandez,G. Hernández,D,81,980886,home
+67.21,54.7,40,Gabriel Ávalos,,,gabriel-avalos,G. Ávalos,F,644,789453,away
+43.829166666667,11.291666666667,24,Fabricio Domínguez,,,fabricio-dominguez,F. Domínguez,M,103,939934,away
+55.460714285714,30.107142857143,28,Gastón Verón,,,gaston-veron,G. Verón,F,202,924198,away
+51.791176470588,83.732352941176,34,Mariano Bittolo,,,mariano-bittolo,M. Bittolo,M,24,129517,away
+59.346875,19.825,32,Javier Cabrera,,,javier-cabrera,J. Cabrera,M,132,340087,away
+50.395238095238,41.916666666667,42,Álan Rodríguez,,,alan-rodriguez,Á. Rodríguez,M,76,874576,away
+7.612,48.798,50,Alexis Martín Arias,,,alexis-martin-arias,A. M. Arias,G,61,340849,away
+66.73125,51.10625,16,Thiago Nuss,,,thiago-nuss,T. Nuss,F,106,1092599,away
+43.61,26.19,10,Matías Vera,,,matias-vera,M. Vera,M,58,793850,away
+59.185714285714,40.285714285714,7,Leonardo Heredia,,,leonardo-heredia,L. Heredia,M,67,895720,away
+51.675471698113,69.0,53,Santiago Montiel,Santiago Montiel,,montiel-santiago,S. Montiel,M,60,1065611,away
+46.533333333333,45.056862745098,102,Federico Redondo,Federico Redondo,,federico-redondo,F. Redondo,M,1130,1117026,away
+36.022619047619,70.195238095238,84,Lucas Villalba,,,lucas-villalba,L. Villalba,D,135,260077,away
+49.46,25.992857142857,70,Francisco González Metilli,,,francisco-gonzalez-metilli,F. G. Metilli,M,112,896773,away
+27.756179775281,39.029213483146,89,Marco Di Cesare,,,marco-di-cesare,M. D. Cesare,D,116,1017460,away
+39.132291666667,17.965625,96,Luciano Sánchez,,,luciano-sanchez,L. Sánchez,M,29,933158,away

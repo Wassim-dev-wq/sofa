@@ -1,0 +1,40 @@
+shirtNumber,jerseyNumber,position,substitute,player.name,player.slug,player.shortName,player.position,player.userCount,player.id,player.country.alpha2,player.country.name,player.marketValueCurrency,player.dateOfBirthTimestamp,player.firstName,player.lastName,team,player_type
+1,1,G,False,Zac Jones,zac-jones,Z. Jones,G,5,905261,NZ,New Zealand,EUR,975283200.0,,,home,main
+7,7,D,False,Ricky Watts,ricky-watts,R. Watts,D,1,808184,WA,Wales,EUR,689472000.0,,,home,main
+15,15,D,False,Lee Jenkins,lee-jenkins,L. Jenkins,D,1,1395699,WA,Wales,EUR,999129600.0,Lee Jenkins,,home,main
+20,20,D,False,Oscar Borg,oscar-borg,O. Borg,D,6,895574,EN,England,EUR,873417600.0,,,home,main
+2,2,D,False,Jazz Richards,jazz-richards,A. Richards,D,14,73420,WA,Wales,EUR,671414400.0,,,home,main
+8,8,M,False,Kai Whitmore,kai-whitmore,K. Whitmore,M,2,1395996,EN,England,EUR,982368000.0,Kai,Whitmore,home,main
+18,18,M,False,Tyrese Owen,tyrese-owen,T. Owen,M,1,1511087,EN,England,EUR,942624000.0,Tyrese Owen,,home,main
+3,3,D,False,Rhys Abbruzzese,rhys-abbruzzese,R. Abbruzzese,D,2,975684,WA,Wales,EUR,890352000.0,,,home,main
+9,9,F,False,Ben Fawcett,ben-fawcett,B. Fawcett,F,1,948275,WA,Wales,EUR,946684800.0,,,home,main
+11,11,F,False,Martell Taylor-Crossdale,taylor-crossdale-martell,M. Taylor-Crossdale,F,20,904971,EN,England,EUR,946166400.0,,,home,main
+10,10,F,False,Daniel Hawkins,daniel-hawkins,D. Hawkins,F,1,1065337,WA,Wales,EUR,987897600.0,Daniel Hawkins,,home,main
+22,22,M,True,Jack Wilson,wilson-jack,J. Wilson,M,4,948267,WA,Wales,EUR,987033600.0,,,home,substitute
+24,24,D,True,Ioan Humphreys,ioan-humphreys,I. Humphreys,D,0,831547,WA,Wales,EUR,1064188800.0,,,home,substitute
+14,14,M,True,Harri John,harri-john,H. John,M,4,1395809,WA,Wales,EUR,1144108800.0,,,home,substitute
+21,21,D,True,Lucas Davies,lucas-davies,L. Davies,D,1,1395698,WA,Wales,EUR,1108166400.0,Lucas Davies,,home,substitute
+12,12,G,True,Ifan Knott,ifan-knott,I. Knott,G,1,1511082,WA,Wales,EUR,1096761600.0,Ifan Knott,,home,substitute
+31,31,G,True,John Chesters,john-chesters,J. Chesters,G,0,1489497,WA,Wales,EUR,1152835200.0,,,home,substitute
+46,46,M,True,Callum Shirt,callum-shirt,C. Shirt,M,0,1502037,WA,Wales,EUR,,Callum Shirt,,home,substitute
+95,95,G,False,Davor Taleski,davor-taleski,D. Taleski,G,1,235410,MK,North Macedonia,EUR,800841600.0,,,away,main
+6,6,M,False,Ardian Limani,ardian-limani,A. Limani,M,3,938318,XK,Kosovo,EUR,753580800.0,,,away,main
+85,85,D,False,Mevlan Adili,adili-mevlan,M. Adili,D,4,809000,MK,North Macedonia,EUR,764985600.0,,,away,main
+5,5,D,False,Klisman Cake,klisman-cake,K. Cake,D,6,885709,AL,Albania,EUR,925603200.0,,,away,main
+23,23,M,False,Bashkim Velija,bashkim-velija,B. Velija,M,3,242195,MK,North Macedonia,EUR,744163200.0,,,away,main
+28,28,M,False,Kamer Qaka,kamer-qaka,K. Qaka,M,39,138273,AL,Albania,EUR,797558400.0,,,away,main
+8,8,M,False,Ennur Totre,ennur-totre,E. Totre,M,23,797993,MK,North Macedonia,EUR,846547200.0,,,away,main
+7,7,M,False,Eraldo Cinari,eraldo-cinari,E. Cinari,M,31,891613,AL,Albania,EUR,844992000.0,,,away,main
+10,10,M,False,Endrit Krasniqi,endrit-krasniqi,E. Krasniqi,M,9,890649,XK,Kosovo,EUR,783129600.0,,,away,main
+17,17,F,False,Adenis Shala,adenis-shala,A. Shala,F,8,987106,AL,Albania,EUR,909100800.0,,,away,main
+18,18,F,False,Almir Aganspahić,almir-aganspahic,A. Aganspahić,F,27,280487,BA,Bosnia & Herzegovina,EUR,842486400.0,,,away,main
+9,9,M,True,Dashmir Elezi,dashmir-elezi,D. Elezi,M,53,998979,MK,North Macedonia,EUR,1100995200.0,,,away,substitute
+11,11,M,True,Metodi Maksimov,metodi-maksimov,M. Maksimov,M,9,957975,MK,North Macedonia,EUR,1029801600.0,,,away,substitute
+77,77,M,True,Florent Ramadani,florent-ramadani,F. Ramadani,M,5,940729,MK,North Macedonia,EUR,967334400.0,,,away,substitute
+1,1,G,True,Kostadin Zahov,kostadin-zahov,K. Zahov,G,2,593680,MK,North Macedonia,EUR,563328000.0,,,away,substitute
+30,30,G,True,Ferat Ramani,ferat-ramani,F. Ramani,G,0,929134,MK,North Macedonia,EUR,783302400.0,,,away,substitute
+3,3,D,True,Almir Rexhepi,almir-rexhepi,A. Rexhepi,D,2,998963,AL,Albania,EUR,986342400.0,,,away,substitute
+22,22,M,True,Bruno Dita,bruno-dita,B. Dita,M,3,94577,AL,Albania,EUR,729993600.0,,,away,substitute
+27,27,M,True,Lorik Kaba Jakupi,lorik-kaba-jakupi,L. K. Jakupi,M,0,1146464,MK,North Macedonia,EUR,,,,away,substitute
+38,38,M,True,Amir Nuhija,amir-nuhija,A. Nuhija,M,1,1146468,MK,North Macedonia,EUR,1106611200.0,,,away,substitute
+26,26,,True,Anes Meliqi,anes-meliqi,A. Meliqi,,0,1513806,,,EUR,,,,away,substitute
