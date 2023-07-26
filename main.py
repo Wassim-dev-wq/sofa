@@ -3,6 +3,7 @@ from all_day_games import fetch_all_games
 from best_players_of_game import fetch_and_save_best_players
 from data_cleaner import all_statistics_cleaner, average_positions_cleaner, incidents_cleaner, standings_cleaner, \
     lineups_cleaner, event_data_cleaner, past_games_cleaner, event_h2h_cleaner
+from data_processing import merge_data
 from game_average_positions import fetch_and_save_average_positions_game
 from game_data import fetch_and_save_game_data
 from game_h2h_data import fetch_and_save_event_h2h
@@ -30,6 +31,7 @@ id_list = ids.to_list()
 for i in range(1):
     try:
         event_id = id_list[i]
+        '''
         fetch_and_save_statistics(event_id)
         fetch_and_save_incidents(event_id)
         fetch_and_save_best_players(event_id)
@@ -52,7 +54,12 @@ for i in range(1):
         past_games_cleaner(id_value_hometeam)
         past_games_cleaner(id_value_awayteam)
         event_h2h_cleaner(id_value_h2h)
+        '''
+        id_season, id_tournament, id_value_h2h, id_value_hometeam, id_value_awayteam = fetch_and_save_game_data(event_id)
+
+        merge_data(event_id,id_tournament,id_season,id_value_hometeam,id_value_awayteam,id_value_h2h)
     except Exception as e:
         print(f"An error occurred: {e}")
-df_merged = pd.merge(df_football, df_odds, on='id', how='inner')
-df_merged.to_csv('merged_data.csv', index=False)
+
+#df_merged = pd.merge(df_football, df_odds, on='id', how='inner')
+#df_merged.to_csv('merged_data.csv', index=False)

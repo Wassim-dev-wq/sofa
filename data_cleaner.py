@@ -61,6 +61,17 @@ def lineups_cleaner(id_value):
     # Read the csv file
     df = pd.read_csv(f'Data/game_lineups_{id_value}.csv')
 
+    # List of columns to be dropped
+    columns_to_drop = [
+        'player.firstName', 'player.lastName',
+        'player.slug', 'player.marketValueCurrency',
+
+    ]
+
+    # Drop the columns
+    df = df.drop(columns_to_drop, axis=1)
+
+
     # Write the dataframe back to the csv
     df.to_csv(f'Cleaned Data/game_lineups_{id_value}.csv', index=False)
 

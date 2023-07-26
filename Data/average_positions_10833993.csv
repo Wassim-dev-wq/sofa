@@ -1,18 +1,18 @@
 averageX,averageY,pointsCount,player_name,player_slug,player_shortName,player_position,player_userCount,player_id,player_firstName,player_lastName,team
-57.609302325581,87.293023255814,43,Nicoline Sørensen,nicoline-sorensen,N. Sørensen,F,52,282377,,,home
-47.549206349206,72.939682539683,63,Kathrine Møller Kühl,kathrine-moller-kuhl,K. M. Kühl,M,157,1113614,,,home
+57.609302325581,87.293023255814,43,Nicoline Sørensen,nicoline-sorensen,N. Sørensen,F,53,282377,,,home
+47.549206349206,72.939682539683,63,Kathrine Møller Kühl,kathrine-moller-kuhl,K. M. Kühl,M,155,1113614,,,home
 30.604838709677,34.770967741935,124,Stine Pedersen,pedersen-stine,S. Pedersen,D,28,961942,,,home
 71.338888888889,45.911111111111,18,Signe Bruun,signe-bruun,S. Bruun,F,220,343255,,,home
-66.985714285714,72.114285714286,14,Rikke Madsen,madsen-rikke,R. Madsen,F,42,973952,,,home
+66.985714285714,72.114285714286,14,Rikke Madsen,madsen-rikke,R. Madsen,F,43,973952,,,home
 51.057258064516,81.126612903226,124,Katrine Veje,katrine-veje,K. Veje,D,55,80597,,,home
 52.997872340426,32.827659574468,47,Janni Thomsen,janni-thomsen,J. Thomsen,M,38,973956,,,home
 61.66,18.65,10,Amalie Jørgensen Vangsgaard,amalie-jorgensen-vangsgaard,A. J. Vangsgaard,F,71,1136176,,,home
-48.426086956522,39.046376811594,69,Josefine Hasbo,hasbo-josefine,J. Hasbo,M,27,998118,,,home
+48.426086956522,39.046376811594,69,Josefine Hasbo,hasbo-josefine,J. Hasbo,M,28,998118,,,home
 32.700806451613,63.329032258064,124,Simone Boye Sørensen,simone-boye-sorensen,S. B. Sørensen,D,65,114838,,,home
-70.156862745098,57.998039215686,51,Pernille Harder,pernille-harder,P. Harder,F,1024,91248,,,home
+70.156862745098,57.998039215686,51,Pernille Harder,pernille-harder,P. Harder,F,1025,91248,,,home
 9.6367346938776,49.775510204082,49,Lene Christensen,lene-christensen,L. Christensen,G,25,1184595,,,home
-48.342666666667,14.932,75,Rikke Sevecke,sevecke-rikke,R. Sevecke,D,79,793179,,,home
-46.959574468085,52.847872340426,94,Karen Holmgaard,karen-holmgaard,K. Holmgaard,M,46,937372,,,home
+48.342666666667,14.932,75,Rikke Sevecke,sevecke-rikke,R. Sevecke,D,83,793179,,,home
+46.959574468085,52.847872340426,94,Karen Holmgaard,karen-holmgaard,K. Holmgaard,M,47,937372,,,home
 61.05,46.9625,48,Jiahui Lou,jiahui-lou,J. Lou,D,1,38464,,,away
 10.403333333333,48.08,30,Xu Huan,xu-huan,X. Huan,G,4,985542,,,away
 56.647368421053,19.105263157895,38,Zhang Xin,zhang-xin,Z. Xin,M,2,796649,,,away
@@ -21,10 +21,10 @@ averageX,averageY,pointsCount,player_name,player_slug,player_shortName,player_po
 51.523529411765,16.858823529412,17,Mengyu Shen,shen-mengyu,M. Shen,M,46,944516,,,away
 41.932110091743,29.765137614679,109,Rui Zhang,rui-zhang,R. Zhang,M,3,106630,,,away
 59.231428571429,66.875714285714,70,Linyan Zhang,zhang-linyan,L. Zhang,M,23,945623,,,away
-44.711688311688,57.909090909091,77,Yang Lina,yang-lina,Y. Lina,M,40,947074,,,away
+44.711688311688,57.909090909091,77,Yang Lina,yang-lina,Y. Lina,M,42,947074,,,away
 58.62,61.32,5,Yasha Gu,yasha-gu,Y. Gu,M,2,38468,,,away
-39.45,7.6,74,Li Mengwen,li-mengwen,L. Mengwen,D,34,1004570,,,away
-35.592857142857,69.631428571429,70,Yao Wei,yao-wei,Y. Wei,M,3,985550,,,away
+39.45,7.6,74,Li Mengwen,li-mengwen,L. Mengwen,D,35,1004570,,,away
+35.592857142857,69.631428571429,70,Yao Wei,yao-wei,Y. Wei,M,4,985550,,,away
 43.384337349398,81.279518072289,83,Chen Qiaozhu,chen-qiaozhu,C. Qiaozhu,D,1,1480265,,,away
 28.656756756757,35.409459459459,74,Wang Shanshan,wang-shanshan,W. Shanshan,F,18,796640,,,away
-59.634782608696,40.927536231884,69,Wu Chengshu,wu-chengshu,W. Chengshu,M,9,1172565,,,away
+59.634782608696,40.927536231884,69,Wu Chengshu,wu-chengshu,W. Chengshu,M,10,1172565,,,away
