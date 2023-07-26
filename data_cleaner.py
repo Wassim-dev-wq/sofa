@@ -26,8 +26,51 @@ def average_positions_cleaner(id_value):
     # Write the dataframe back to the csv
     df.to_csv(f'Cleaned Data/average_positions_{id_value}.csv', index=False)
 
-all_statistics_cleaner(10833993)
-average_positions_cleaner(10833993)
+def event_h2h_cleaner(id_value):
+    # Read the csv file
+    df = pd.read_csv(f'Data/event_h2h_{id_value}.csv')
+
+    # List of columns to be dropped
+    columns_to_drop = [
+        'customId', 'hasGlobalHighlights',
+        'hasEventPlayerStatistics','hasEventPlayerHeatMap',
+        'detailId','crowdsourcingDataDisplayEnabled',
+        'slug','finalResultOnly',
+        'tournament.slug','tournament.category.slug',
+        'tournament.category.id','tournament.uniqueTournament.slug',
+        'tournament.uniqueTournament.primaryColorHex','tournament.uniqueTournament.id',
+        'tournament.uniqueTournament.hasEventPlayerStatistics','id',
+        'tournament.uniqueTournament.crowdsourcingEnabled','tournament.uniqueTournament.hasPerformanceGraphFeature',
+        'tournament.id','status.code',
+        'status.description','status.type',
+        'homeTeam.slug','homeTeam.sport.id',
+        'homeTeam.sport.name','homeTeam.sport.slug',
+        'homeTeam.disabled','homeTeam.type',
+        'homeTeam.id','homeTeam.subTeams',
+        'homeTeam.teamColors.primary','homeTeam.teamColors.secondary',
+        'homeTeam.teamColors.text','awayTeam.slug',
+        'awayTeam.sport.name','awayTeam.sport.slug',
+        'awayTeam.disabled','awayTeam.type',
+        'awayTeam.id','awayTeam.subTeams',
+        'awayTeam.teamColors.primary','awayTeam.teamColors.secondary',
+        'awayTeam.teamColors.text','changes.changes',
+        'tournament.category.sport','tournament.name',
+        'tournament.uniqueTournament.secondaryColorHex','tournament.uniqueTournament.category',
+        'tournament.uniqueTournament.userCount','tournament.uniqueTournament.displayInverseHomeAwayTeams',
+        'tournament.priority','roundInfo.round',
+        'homeTeam.shortName','homeTeam.userCount',
+        'awayTeam.shortName','awayTeam.sport.id',
+        'awayTeam.userCount','coverage',
+        'roundInfo.slug'
+    ]
+
+    # Drop the columns
+    df = df.drop(columns_to_drop, axis=1)
+
+    # Write the dataframe back to the csv
+    df.to_csv(f'Cleaned Data/event_h2h_{id_value}.csv', index=False)
+
+event_h2h_cleaner('nYcsoYc')
 def incidents_cleaner(id_value):
     # Read the csv file
     df = pd.read_csv(f'Data/incidents_data_{id_value}.csv')
@@ -156,41 +199,7 @@ def past_games_cleaner(id_value):
     df.to_csv(f'Cleaned Data/past_games_data_{id_value}.csv', index=False)
 
 
-def event_h2h_cleaner(id_value):
-    # Read the csv file
-    df = pd.read_csv(f'Data/event_h2h_{id_value}.csv')
 
-    # List of columns to be dropped
-    columns_to_drop = [
-        'customId', 'hasGlobalHighlights',
-        'hasEventPlayerStatistics','hasEventPlayerHeatMap',
-        'detailId','crowdsourcingDataDisplayEnabled',
-        'slug','finalResultOnly',
-        'tournament.slug','tournament.category.slug',
-        'tournament.category.id','tournament.uniqueTournament.slug',
-        'tournament.uniqueTournament.primaryColorHex','tournament.uniqueTournament.id',
-        'tournament.uniqueTournament.hasEventPlayerStatistics','id',
-        'tournament.uniqueTournament.crowdsourcingEnabled','tournament.uniqueTournament.hasPerformanceGraphFeature',
-        'tournament.id','status.code',
-        'status.description','status.type',
-        'homeTeam.slug','homeTeam.sport.id',
-        'homeTeam.sport.name','homeTeam.sport.slug',
-        'homeTeam.disabled','homeTeam.type',
-        'homeTeam.id','homeTeam.subTeams',
-        'homeTeam.teamColors.primary','homeTeam.teamColors.secondary',
-        'homeTeam.teamColors.text','awayTeam.slug',
-        'awayTeam.sport.name','awayTeam.sport.slug',
-        'awayTeam.disabled','awayTeam.type',
-        'awayTeam.id','awayTeam.subTeams',
-        'awayTeam.teamColors.primary','awayTeam.teamColors.secondary',
-        'awayTeam.teamColors.text','changes.changes',
-    ]
-
-    # Drop the columns
-    df = df.drop(columns_to_drop, axis=1)
-
-    # Write the dataframe back to the csv
-    df.to_csv(f'Cleaned Data/event_h2h_{id_value}.csv', index=False)
 
 
 def all_data_cleaner(id_value):
