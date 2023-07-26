@@ -1,25 +1,28 @@
 import requests
 import pandas as pd
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
-    "Accept-Language": "en-US, en;q=0.9",
-}
+def fetch_and_save_standings(id_tournament,id_season):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+        "Accept-Language": "en-US, en;q=0.9",
+    }
 
-response = requests.get('https://api.sofascore.com/api/v1/tournament/36/season/52376/standings/total', headers=headers)
+    endpoints = ['total', 'home', 'away']
+    for endpoint in endpoints:
+        response = requests.get(f'https://api.sofascore.com/api/v1/tournament/{id_tournament}/season/{id_season}/standings/{endpoint}', headers=headers)
 
-if response.status_code == 200:
-    try:
-        data = response.json()
+        if response.status_code == 200:
+            try:
+                data = response.json()
 
-        # Extract the first level of the nested structure
-        df = pd.json_normalize(data, record_path=['standings', 'rows'])
+                # Extract the first level of the nested structure
+                df = pd.json_normalize(data, record_path=['standings', 'rows'])
 
-        # Print the dataframe to inspect it
-        print(df)
+                df.to_csv(f'Data/standings_data_{id_season}_{id_tournament}_{endpoint}.csv', index=False)
+                print(f"[{endpoint.capitalize()} Standings] Data for event ID {id_season} saved successfully.")
 
-        df.to_csv('Data/standings_data.csv', index=False)
-    except ValueError:
-        print("Unable to decode JSON response")
-else:
-    print("Failed to get data. HTTP status code: ", response.status_code)
+            except ValueError:
+                print("Unable to decode JSON response")
+        else:
+            print("Failed to get data. HTTP status code: ", response.status_code)
+
