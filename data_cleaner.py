@@ -157,7 +157,10 @@ def event_data_cleaner(id_value):
         'referee.id','referee.sport.slug',
         'referee.sport.name','referee.slug',
         'status.type','status.description',
-        'tournament.uniqueTournament.displayInverseHomeAwayTeams'
+        'tournament.uniqueTournament.displayInverseHomeAwayTeams',
+        'tournament.uniqueTournament.category.name',
+        'tournament.priority',
+        'tournament.competitionType',
 
     ]
 
@@ -210,7 +213,6 @@ def past_games_cleaner(id_value):
 
     # Write the dataframe back to the csv
     df.to_csv(f'Cleaned Data/past_games_data_{id_value}.csv', index=False)
-
 
 
 
@@ -362,3 +364,25 @@ def all_data_cleaner(id_value):
 
     # Write the dataframe back to the csv
     df.to_csv(f'Merged/Cleaned/merged_data_{id_value}.csv', index=False)
+
+def merged_data_cleaner(id_value):
+    # Read the csv file
+    df = pd.read_csv(f'Merged/merged_data_{id_value}.csv')
+
+    # List of columns to be dropped
+    columns_to_drop = [
+        'venue.id', 'homeTeam.shortName', 'homeTeam.sport.name',
+        'homeTeam.sport.slug', 'homeTeam.sport.id', 'homeTeam.manager.shortName',
+        'homeTeam.manager.id', 'homeTeam.id', 'homeTeam.fullName',
+        'awayTeam.shortName', 'awayTeam.manager.shortName', 'awayTeam.manager.id',
+        'awayTeam.type', 'awayTeam.id', 'awayTeam.fullName',
+        'homeScore.display', 'awayScore.display', 'homeScore.display',
+        'awayScore.display', 'changes.changeTimestamp', 'tournament.uniqueTournament.category.name',
+        'homeTeam.shortName', 'awayTeam.shortName'
+    ]
+
+    # Drop the columns
+    df = df.drop(columns_to_drop, axis=1)
+
+    # Write the dataframe back to the csv
+    df.to_csv(f'Merged/merged_data_{id_value}.csv', index=False)

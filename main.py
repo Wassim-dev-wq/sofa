@@ -5,7 +5,7 @@ import pandas as pd
 from all_day_games import fetch_all_games
 from best_players_of_game import fetch_and_save_best_players
 from data_cleaner import all_statistics_cleaner, average_positions_cleaner, incidents_cleaner, standings_cleaner, \
-    lineups_cleaner, event_data_cleaner, past_games_cleaner, event_h2h_cleaner, all_data_cleaner
+    lineups_cleaner, event_data_cleaner, past_games_cleaner, event_h2h_cleaner, all_data_cleaner, merged_data_cleaner
 from data_processing import merge_data, merge_data_statistics
 from game_average_positions import fetch_and_save_average_positions_game
 from game_data import fetch_and_save_game_data
@@ -61,6 +61,7 @@ def thread_task(event_id):
             #merge_data_statistics(event_id, id_tournament, id_season, id_value_hometeam, id_value_awayteam, id_value_h2h,date)
 
             merge_data(event_id, id_tournament, id_season, id_value_hometeam, id_value_awayteam, id_value_h2h,date)
+            merged_data_cleaner(event_id)
             #all_data_cleaner(event_id)
     except Exception as e:
         print(f"An error occurred: {e}")
