@@ -70,7 +70,6 @@ def event_h2h_cleaner(id_value):
     # Write the dataframe back to the csv
     df.to_csv(f'Cleaned Data/event_h2h_{id_value}.csv', index=False)
 
-event_h2h_cleaner('nYcsoYc')
 def incidents_cleaner(id_value):
     # Read the csv file
     df = pd.read_csv(f'Data/incidents_data_{id_value}.csv')
@@ -151,6 +150,14 @@ def event_data_cleaner(id_value):
         'tournament.category.sport.name','tournament.uniqueTournament.category.sport.name','tournament.uniqueTournament.id',
         'tournament.uniqueTournament.hasEventPlayerStatistics','tournament.uniqueTournament.crowdsourcingEnabled','tournament.uniqueTournament.hasPerformanceGraphFeature',
         'tournament.id','season.editor','season.id','status.code',
+        'changes.changeTimestamp','homeTeam.teamColors.primary',
+        'homeTeam.subTeams','homeTeam.type',
+        'homeTeam.disabled','homeTeam.manager.slug',
+        'homeTeam.slug','referee.sport.id',
+        'referee.id','referee.sport.slug',
+        'referee.sport.name','referee.slug',
+        'status.type','status.description',
+        'tournament.uniqueTournament.displayInverseHomeAwayTeams'
 
     ]
 
@@ -158,7 +165,7 @@ def event_data_cleaner(id_value):
     df = df.drop(columns_to_drop, axis=1)
 
     # Write the dataframe back to the csv
-    df.to_csv(f'Cleaned Data/event_data_{id_value}3.csv', index=False)
+    df.to_csv(f'Cleaned Data/event_data_{id_value}.csv', index=False)
 
 def past_games_cleaner(id_value):
     # Read the csv file
@@ -189,6 +196,12 @@ def past_games_cleaner(id_value):
         'awayTeam.teamColors.secondary', 'awayTeam.teamColors.text',
         'changes.changes', 'hasEventPlayerHeatMap',
         'hasEventPlayerStatistics', 'detailId',
+        'coverage', 'crowdsourcingDataDisplayEnabled',
+        'tournament.uniqueTournament.category.sport.name', 'tournament.category.flag',
+        'status.description', 'status.type',
+        'homeTeam.sport.id', 'homeTeam.id',
+        'homeTeam.subTeams', 'homeTeam.teamColors.text',
+        'awayTeam.slug', 'homeTeam.id',
 
     ]
 

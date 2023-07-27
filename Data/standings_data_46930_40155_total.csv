@@ -1,5 +1,0 @@
-descriptions,position,matches,wins,scoresFor,scoresAgainst,id,losses,draws,points,team.name,team.slug,team.shortName,team.gender,team.sport.name,team.sport.slug,team.sport.id,team.userCount,team.nameCode,team.disabled,team.national,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text,promotion.text,promotion.id
-[],1,1,1,4,0,796653,0,0,3,Brazil,brazil,Brazil,F,Football,football,1,45177,BRA,False,True,0,7411,#ffff00,#009933,#009933,Playoffs,6.0
-[],2,1,0,0,0,796654,0,1,1,France,france,France,F,Football,football,1,21076,FRA,False,True,0,32485,#01509e,#e30613,#e30613,Playoffs,6.0
-[],3,1,0,0,0,796655,0,1,1,Jamaica,jamaica,Jamaica,F,Football,football,1,3355,JAM,False,True,0,178950,#ffff00,#33a64f,#33a64f,,
-[],4,1,0,0,4,839828,1,0,0,Panama,panama,Panama,F,Football,football,1,3139,PAN,False,True,0,132954,#cc0000,#005293,#005293,,

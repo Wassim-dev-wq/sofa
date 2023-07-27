@@ -1,4 +1,0 @@
-descriptions,position,matches,wins,scoresFor,scoresAgainst,id,losses,draws,points,team.name,team.slug,team.shortName,team.gender,team.sport.name,team.sport.slug,team.sport.id,team.userCount,team.nameCode,team.disabled,team.national,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text,promotion.text,promotion.id
-[],1,2,2,8,4,873874,0,1,5,Mazatlán FC,mazatlan-fc,Mazatlán ,M,Football,football,1,7615,MAZ,False,False,0,1946,#523278,#83dfec,#83dfec,Playoffs,6.0
-[],2,1,0,3,5,873873,1,1,1,Juárez FC,juarez-fc,Juárez,M,Football,football,1,7096,JUA,,False,0,201624,#0ee762,#222226,#222226,Playoffs,6.0
-[],3,1,0,1,3,873872,1,0,0,Austin FC,austin-fc,Austin,M,Football,football,1,10388,ATX,False,False,0,377973,#1ca949,#000000,#000000,,

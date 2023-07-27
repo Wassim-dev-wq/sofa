@@ -1,5 +1,0 @@
-descriptions,position,matches,wins,scoresFor,scoresAgainst,id,losses,draws,points,team.name,team.slug,team.shortName,team.gender,team.sport.name,team.sport.slug,team.sport.id,team.userCount,team.nameCode,team.disabled,team.national,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text,promotion.text,promotion.id
-[],1,1,1,1,0,796646,0,0,3,Denmark,denmark,Denmark,F,Football,football,1,7149,DEN,False,True,0,7414,#cc0000,#ffffff,#ffffff,Playoffs,6.0
-[],2,1,1,1,0,796647,0,0,3,England,england,England,F,Football,football,1,21565,ENG,False,True,0,7415,#ffffff,#cc0000,#cc0000,Playoffs,6.0
-[],3,1,0,0,1,796645,1,0,0,China,china,China,F,Football,football,1,3122,CHN,False,True,0,7413,#ff0000,#fff100,#fff100,,
-[],4,1,0,0,1,839826,1,0,0,Haiti,haiti,Haiti,F,Football,football,1,19688,HAI,False,True,0,178948,#3b5aa3,#be0027,#be0027,,

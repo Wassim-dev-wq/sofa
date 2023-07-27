@@ -1,5 +1,0 @@
-descriptions,position,matches,wins,scoresFor,scoresAgainst,id,losses,draws,points,team.name,team.slug,team.shortName,team.gender,team.sport.name,team.sport.slug,team.sport.id,team.userCount,team.nameCode,team.disabled,team.national,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text,promotion.text,promotion.id
-[],1,1,1,2,1,796659,0,0,3,Sweden,sweden,Sweden,F,Football,football,1,10659,SWE,False,True,0,7423,#ffcc00,#0000ff,#0000ff,Playoffs,6.0
-[],2,1,1,1,0,796657,0,0,3,Italy,italy,Italy,F,Football,football,1,17409,ITA,False,True,0,22025,#0066ff,#ffffff,#ffffff,Playoffs,6.0
-[],3,1,0,1,2,796658,1,0,0,South Africa,south-africa,South Africa,F,Football,football,1,5968,RSA,False,True,0,65336,#ffd800,#008040,#008040,,
-[],4,1,0,0,1,796656,1,0,0,Argentina,argentina,Argentina,F,Football,football,1,8813,ARG,False,True,0,7409,#66ccff,#ffffff,#ffffff,,

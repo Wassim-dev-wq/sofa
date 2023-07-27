@@ -1,5 +1,0 @@
-descriptions,position,matches,wins,scoresFor,scoresAgainst,id,losses,draws,points,team.name,team.slug,team.shortName,team.gender,team.sport.name,team.sport.slug,team.sport.id,team.userCount,team.nameCode,team.disabled,team.national,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text,promotion.text,promotion.id
-[],1,2,2,8,0,796642,0,0,6,Spain,spain,Spain,F,Football,football,1,16409,ESP,False,True,0,37371,#cc0000,#ffffff,#ffffff,Playoffs,6.0
-[],2,2,2,7,0,796641,0,0,6,Japan,japan,Japan,F,Football,football,1,5967,JPN,False,True,0,7418,#000080,#ed1b24,#ed1b24,Playoffs,6.0
-[],3,2,0,0,5,796640,2,0,0,Costa Rica,costa-rica,Costa Rica,F,Football,football,1,4018,CRC,False,True,0,132928,#ed1c24,#2366b3,#2366b3,,
-[],4,2,0,0,10,796643,2,0,0,Zambia,zambia,Zambia,F,Football,football,1,8938,ZAM,False,True,0,288601,#088754,#ff6000,#ff6000,,

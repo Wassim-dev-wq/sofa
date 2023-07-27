@@ -23,7 +23,7 @@ import threading
 lock = threading.Lock()
 
 date_start = "2023-07-20"
-date_end = "2023-07-28"
+date_end = "2023-07-21"
 
 # Define date range function
 def daterange(start_date, end_date):
@@ -35,33 +35,32 @@ def thread_task(event_id):
     try:
         with lock:
             event_id = id_list[i]
-            '''
             fetch_and_save_statistics(event_id)
             fetch_and_save_incidents(event_id)
             fetch_and_save_best_players(event_id)
             fetch_and_save_lineups(event_id)
+            id_season, id_tournament, id_value_h2h, id_value_hometeam, id_value_awayteam = fetch_and_save_game_data(event_id)
             fetch_and_save_standings(id_tournament, id_season)
             fetch_and_save_event_h2h(id_value_h2h)
             fetch_and_save_past_games(id_value_hometeam)
             fetch_and_save_past_games(id_value_awayteam)
             fetch_and_save_game_managers(event_id)
             fetch_and_save_average_positions_game(event_id)
-            
+
             # Call cleaner functions
             all_statistics_cleaner(event_id)
             average_positions_cleaner(event_id)
-            incidents_cleaner(event_id)
-            standings_cleaner(id_tournament, id_season)
             lineups_cleaner(event_id)
             event_data_cleaner(event_id)
             past_games_cleaner(id_value_hometeam)
             past_games_cleaner(id_value_awayteam)
             event_h2h_cleaner(id_value_h2h)
-            '''
-            id_season, id_tournament, id_value_h2h, id_value_hometeam, id_value_awayteam = fetch_and_save_game_data(event_id)
-            merge_data_statistics(event_id, id_tournament, id_season, id_value_hometeam, id_value_awayteam, id_value_h2h,date)
+            #incidents_cleaner(event_id)
+            #standings_cleaner(id_tournament, id_season)
 
-            #merge_data(event_id, id_tournament, id_season, id_value_hometeam, id_value_awayteam, id_value_h2h,date)
+            #merge_data_statistics(event_id, id_tournament, id_season, id_value_hometeam, id_value_awayteam, id_value_h2h,date)
+
+            merge_data(event_id, id_tournament, id_season, id_value_hometeam, id_value_awayteam, id_value_h2h,date)
             #all_data_cleaner(event_id)
     except Exception as e:
         print(f"An error occurred: {e}")
@@ -87,7 +86,7 @@ for single_date in daterange(start_date, end_date):
     ids = df_football['id']
     id_list = ids.to_list()
     threads = []
-    for i in range(30):
+    for i in range(1):
         event_id = id_list[i]
         thread = threading.Thread(target=thread_task, args=(event_id,))
         threads.append(thread)

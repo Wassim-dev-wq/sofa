@@ -1,5 +1,0 @@
-position,matches,wins,scoresFor,scoresAgainst,losses,draws,points,team.name,team.gender,team.sport.id,team.userCount,team.nameCode,team.national,promotion.text
-1,1,1,1,0,0,0,3,Denmark,F,1,7149,DEN,True,Playoffs
-2,1,1,1,0,0,0,3,England,F,1,21565,ENG,True,Playoffs
-3,1,0,0,1,1,0,0,China,F,1,3122,CHN,True,
-4,1,0,0,1,1,0,0,Haiti,F,1,19688,HAI,True,

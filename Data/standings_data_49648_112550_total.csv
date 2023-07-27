@@ -1,4 +1,0 @@
-descriptions,position,matches,wins,scoresFor,scoresAgainst,id,losses,draws,points,team.name,team.slug,team.shortName,team.gender,team.sport.name,team.sport.slug,team.sport.id,team.userCount,team.nameCode,team.disabled,team.national,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text,promotion.text,promotion.id
-[],1,2,2,6,1,873880,0,0,6,Inter Miami CF,inter-miami-cf,Inter Miami,M,Football,football,1,184977,MIA,False,False,0,337602,#212322,#f6b5cc,#f6b5cc,Playoffs,6.0
-[],2,1,0,1,2,873879,1,0,0,Cruz Azul,cruz-azul,Cruz Azul,M,Football,football,1,23213,CAZ,False,False,0,1947,#0080c0,#ffffff,#ffffff,Playoffs,6.0
-[],3,1,0,0,4,873878,1,0,0,Atlanta United FC,atlanta-united-fc,Atlanta Utd,M,Football,football,1,15627,ATL,False,False,0,243211,#000000,#80000a,#80000a,,

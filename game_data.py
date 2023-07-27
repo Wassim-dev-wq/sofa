@@ -7,7 +7,7 @@ def fetch_and_save_game_data(id_value):
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
         "Accept-Language": "en-US, en;q=0.9",
     }
-
+    print(id_value)
     url = f'https://api.sofascore.com/api/v1/event/{id_value}'
     response = requests.get(url, headers=headers)
 
