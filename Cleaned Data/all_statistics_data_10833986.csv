@@ -1,126 +1,92 @@
-match_id,name,home,away,,,,,
-10833986,Ball possession,50%,50%,,,,,
-10833986,Total shots,12,13,,,,,
-10833986,Shots on target,2,2,,,,,
-10833986,Shots off target,6,7,,,,,
-10833986,Blocked shots,4,4,,,,,
-10833986,Corner kicks,8,2,,,,,
-10833986,Offsides,3,2,,,,,
-10833986,Fouls,5,15,,,,,
-10833986,Yellow cards,0,1,,,,,
-10833986,Free kicks,13,5,,,,,
-10833986,Throw-ins,32,35,,,,,
-10833986,Goal kicks,11,11,,,,,
-10833986,Big chances,2,1,,,,,
-10833986,Big chances missed,1,1,,,,,
-10833986,Hit woodwork,1,1,,,,,
-10833986,Counter attacks,0,1,,,,,
-10833986,Counter attack shots,0,1,,,,,
-10833986,Shots inside box,9,9,,,,,
-10833986,Shots outside box,3,4,,,,,
-10833986,Goalkeeper saves,2,1,,,,,
-10833986,Passes,355,353,,,,,
-10833986,Accurate passes,228 (64%),209 (59%),,,,,
-10833986,Long balls,22/74 (30%),21/71 (30%),,,,,
-10833986,Crosses,3/18 (17%),5/15 (33%),,,,,
-10833986,Dribbles,8/17 (47%),11/27 (41%),,,,,
-10833986,Possession lost,212,210,,,,,
-10833986,Duels won,73,64,,,,,
-10833986,Aerials won,21,24,,,,,
-10833986,Tackles,32,24,,,,,
-10833986,Interceptions,10,14,,,,,
-10833986,Clearances,19,25,,,,,
-10833986,Ball possession,54%,46%,,,,,
-10833986,Total shots,4,4,,,,,
-10833986,Shots on target,0,0,,,,,
-10833986,Shots off target,2,2,,,,,
-10833986,Blocked shots,2,2,,,,,
-10833986,Corner kicks,4,1,,,,,
-10833986,Offsides,1,1,,,,,
-10833986,Yellow cards,0,0,,,,,
-10833986,Free kicks,9,1,,,,,
-10833986,Throw-ins,17,18,,,,,
-10833986,Goal kicks,1,5,,,,,
-10833986,Big chances,0,0,,,,,
-10833986,Big chances missed,0,0,,,,,
-10833986,Hit woodwork,0,0,,,,,
-10833986,Counter attacks,0,1,,,,,
-10833986,Counter attack shots,0,1,,,,,
-10833986,Shots inside box,3,3,,,,,
-10833986,Shots outside box,1,1,,,,,
-10833986,Goalkeeper saves,0,0,,,,,
-10833986,Passes,191,163,,,,,
-10833986,Accurate passes,135 (71%),106 (65%),,,,,
-10833986,Long balls,11/34 (32%),7/27 (26%),,,,,
-10833986,Crosses,2/12 (17%),2/5 (40%),,,,,
-10833986,Dribbles,4/10 (40%),3/13 (23%),,,,,
-10833986,Possession lost,100,95,,,,,
-10833986,Duels won,45,20,,,,,
-10833986,Aerials won,9,5,,,,,
-10833986,Tackles,24,11,,,,,
-10833986,Interceptions,5,6,,,,,
-10833986,Clearances,6,16,,,,,
-10833986,Ball possession,46%,54%,,,,,
-10833986,Total shots,8,9,,,,,
-10833986,Shots on target,2,2,,,,,
-10833986,Shots off target,4,5,,,,,
-10833986,Blocked shots,2,2,,,,,
-10833986,Corner kicks,4,1,,,,,
-10833986,Offsides,2,1,,,,,
-10833986,Yellow cards,0,1,,,,,
-10833986,Free kicks,4,4,,,,,
-10833986,Throw-ins,15,17,,,,,
-10833986,Goal kicks,10,6,,,,,
-10833986,Big chances,2,1,,,,,
-10833986,Big chances missed,1,1,,,,,
-10833986,Hit woodwork,1,1,,,,,
-10833986,Counter attacks,0,0,,,,,
-10833986,Counter attack shots,0,0,,,,,
-10833986,Shots inside box,6,6,,,,,
-10833986,Shots outside box,2,3,,,,,
-10833986,Goalkeeper saves,2,1,,,,,
-10833986,Passes,164,190,,,,,
-10833986,Accurate passes,93 (57%),103 (54%),,,,,
-10833986,Long balls,11/40 (28%),14/44 (32%),,,,,
-10833986,Crosses,1/6 (17%),3/10 (30%),,,,,
-10833986,Dribbles,4/7 (57%),8/14 (57%),,,,,
-10833986,Possession lost,112,115,,,,,
-10833986,Duels won,28,44,,,,,
-10833986,Aerials won,12,19,,,,,
-10833986,Tackles,8,13,,,,,
-10833986,Interceptions,5,8,,,,,
-10833986,Clearances,13,9,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+match_id,name,home,away
+10833986,Ball possession,50%,50%
+10833986,Total shots,12,13
+10833986,Shots on target,2,2
+10833986,Shots off target,6,7
+10833986,Blocked shots,4,4
+10833986,Corner kicks,8,2
+10833986,Offsides,3,2
+10833986,Fouls,5,15
+10833986,Yellow cards,0,1
+10833986,Free kicks,13,5
+10833986,Throw-ins,32,35
+10833986,Goal kicks,11,11
+10833986,Big chances,2,1
+10833986,Big chances missed,1,1
+10833986,Hit woodwork,1,1
+10833986,Counter attacks,0,1
+10833986,Counter attack shots,0,1
+10833986,Shots inside box,9,9
+10833986,Shots outside box,3,4
+10833986,Goalkeeper saves,2,1
+10833986,Passes,355,353
+10833986,Accurate passes,228 (64%),209 (59%)
+10833986,Long balls,22/74 (30%),21/71 (30%)
+10833986,Crosses,3/18 (17%),5/15 (33%)
+10833986,Dribbles,8/17 (47%),11/27 (41%)
+10833986,Possession lost,212,210
+10833986,Duels won,73,64
+10833986,Aerials won,21,24
+10833986,Tackles,32,24
+10833986,Interceptions,10,14
+10833986,Clearances,19,25
+10833986,Ball possession,54%,46%
+10833986,Total shots,4,4
+10833986,Shots on target,0,0
+10833986,Shots off target,2,2
+10833986,Blocked shots,2,2
+10833986,Corner kicks,4,1
+10833986,Offsides,1,1
+10833986,Yellow cards,0,0
+10833986,Free kicks,9,1
+10833986,Throw-ins,17,18
+10833986,Goal kicks,1,5
+10833986,Big chances,0,0
+10833986,Big chances missed,0,0
+10833986,Hit woodwork,0,0
+10833986,Counter attacks,0,1
+10833986,Counter attack shots,0,1
+10833986,Shots inside box,3,3
+10833986,Shots outside box,1,1
+10833986,Goalkeeper saves,0,0
+10833986,Passes,191,163
+10833986,Accurate passes,135 (71%),106 (65%)
+10833986,Long balls,11/34 (32%),7/27 (26%)
+10833986,Crosses,2/12 (17%),2/5 (40%)
+10833986,Dribbles,4/10 (40%),3/13 (23%)
+10833986,Possession lost,100,95
+10833986,Duels won,45,20
+10833986,Aerials won,9,5
+10833986,Tackles,24,11
+10833986,Interceptions,5,6
+10833986,Clearances,6,16
+10833986,Ball possession,46%,54%
+10833986,Total shots,8,9
+10833986,Shots on target,2,2
+10833986,Shots off target,4,5
+10833986,Blocked shots,2,2
+10833986,Corner kicks,4,1
+10833986,Offsides,2,1
+10833986,Yellow cards,0,1
+10833986,Free kicks,4,4
+10833986,Throw-ins,15,17
+10833986,Goal kicks,10,6
+10833986,Big chances,2,1
+10833986,Big chances missed,1,1
+10833986,Hit woodwork,1,1
+10833986,Counter attacks,0,0
+10833986,Counter attack shots,0,0
+10833986,Shots inside box,6,6
+10833986,Shots outside box,2,3
+10833986,Goalkeeper saves,2,1
+10833986,Passes,164,190
+10833986,Accurate passes,93 (57%),103 (54%)
+10833986,Long balls,11/40 (28%),14/44 (32%)
+10833986,Crosses,1/6 (17%),3/10 (30%)
+10833986,Dribbles,4/7 (57%),8/14 (57%)
+10833986,Possession lost,112,115
+10833986,Duels won,28,44
+10833986,Aerials won,12,19
+10833986,Tackles,8,13
+10833986,Interceptions,5,8
+10833986,Clearances,13,9
