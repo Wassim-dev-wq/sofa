@@ -1,0 +1,92 @@
+name,home,away,compareCode,groupName
+Ball possession,46%,54%,2,Possession
+Total shots,16,24,2,Shots
+Shots on target,6,11,2,Shots
+Shots off target,5,10,2,Shots
+Blocked shots,5,3,1,Shots
+Corner kicks,5,7,2,TVData
+Offsides,1,0,1,TVData
+Fouls,9,5,1,TVData
+Yellow cards,2,1,1,TVData
+Free kicks,5,8,2,TVData
+Throw-ins,18,17,1,TVData
+Goal kicks,13,9,1,TVData
+Big chances,1,5,2,Shots extra
+Big chances missed,0,4,2,Shots extra
+Counter attacks,4,1,1,Shots extra
+Counter attack shots,3,1,1,Shots extra
+Counter attack goals,1,0,1,Shots extra
+Shots inside box,8,15,2,Shots extra
+Shots outside box,8,9,2,Shots extra
+Goalkeeper saves,10,4,1,Shots extra
+Passes,415,481,2,Passes
+Accurate passes,356 (86%),419 (87%),2,Passes
+Long balls,46/70 (66%),23/44 (52%),1,Passes
+Crosses,5/17 (29%),7/20 (35%),2,Passes
+Dribbles,13/19 (68%),14/20 (70%),2,Duels
+Possession lost,103,100,1,Duels
+Duels won,40,42,2,Duels
+Aerials won,9,9,3,Duels
+Tackles,13,11,1,Defending
+Interceptions,15,6,1,Defending
+Clearances,11,11,3,Defending
+Ball possession,55%,45%,1,Possession
+Total shots,13,8,1,Shots
+Shots on target,6,4,1,Shots
+Shots off target,3,3,3,Shots
+Blocked shots,4,1,1,Shots
+Corner kicks,4,2,1,TVData
+Offsides,0,0,3,TVData
+Yellow cards,0,0,3,TVData
+Free kicks,0,3,2,TVData
+Throw-ins,11,10,1,TVData
+Goal kicks,5,6,2,TVData
+Big chances,1,0,1,Shots extra
+Big chances missed,0,0,3,Shots extra
+Counter attacks,4,1,1,Shots extra
+Counter attack shots,3,1,1,Shots extra
+Counter attack goals,1,0,1,Shots extra
+Shots inside box,6,5,1,Shots extra
+Shots outside box,7,3,1,Shots extra
+Goalkeeper saves,4,4,3,Shots extra
+Passes,240,201,1,Passes
+Accurate passes,205 (85%),170 (85%),1,Passes
+Long balls,26/38 (68%),17/33 (52%),1,Passes
+Crosses,3/14 (21%),2/8 (25%),2,Passes
+Dribbles,9/14 (64%),3/7 (43%),1,Duels
+Possession lost,60,51,1,Duels
+Duels won,22,17,1,Duels
+Aerials won,5,5,3,Duels
+Tackles,8,6,1,Defending
+Interceptions,6,3,1,Defending
+Clearances,5,9,2,Defending
+Ball possession,38%,62%,2,Possession
+Total shots,3,16,2,Shots
+Shots on target,0,7,2,Shots
+Shots off target,2,7,2,Shots
+Blocked shots,1,2,2,Shots
+Corner kicks,1,5,2,TVData
+Offsides,1,0,1,TVData
+Yellow cards,2,1,1,TVData
+Free kicks,5,5,3,TVData
+Throw-ins,7,7,3,TVData
+Goal kicks,8,3,1,TVData
+Big chances,0,5,2,Shots extra
+Big chances missed,0,4,2,Shots extra
+Counter attacks,0,0,3,Shots extra
+Counter attack shots,0,0,3,Shots extra
+Counter attack goals,0,0,3,Shots extra
+Shots inside box,2,10,2,Shots extra
+Shots outside box,1,6,2,Shots extra
+Goalkeeper saves,6,0,1,Shots extra
+Passes,175,280,2,Passes
+Accurate passes,151 (86%),249 (89%),2,Passes
+Long balls,20/32 (63%),6/11 (55%),1,Passes
+Crosses,2/3 (67%),5/12 (42%),1,Passes
+Dribbles,4/5 (80%),11/13 (85%),2,Duels
+Possession lost,43,49,2,Duels
+Duels won,18,25,2,Duels
+Aerials won,4,4,3,Duels
+Tackles,5,5,3,Defending
+Interceptions,9,3,1,Defending
+Clearances,6,2,1,Defending

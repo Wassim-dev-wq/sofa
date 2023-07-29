@@ -1,0 +1,10 @@
+name,home,away,compareCode,groupName
+Total shots,5,6,2,Shots
+Shots off target,5,5,3,Shots
+Corner kicks,7,4,1,TVData
+Fouls,7,15,2,TVData
+Yellow cards,2,2,3,TVData
+Red cards,0,0,3,TVData
+Free kicks,17,7,1,TVData
+Throw-ins,28,19,1,TVData
+Goal kicks,11,10,1,TVData

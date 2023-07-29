@@ -1,0 +1,14 @@
+name,home,away,compareCode,groupName
+Ball possession,61%,39%,1,Possession
+Total shots,14,4,1,Shots
+Shots on target,4,2,1,Shots
+Shots off target,8,2,1,Shots
+Corner kicks,8,4,1,TVData
+Offsides,2,1,1,TVData
+Fouls,18,17,1,TVData
+Yellow cards,1,2,2,TVData
+Red cards,0,0,3,TVData
+Free kicks,18,20,2,TVData
+Throw-ins,32,17,1,TVData
+Goal kicks,3,12,2,TVData
+Goalkeeper saves,1,3,2,Shots extra

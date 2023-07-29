@@ -1,0 +1,74 @@
+name,home,away,compareCode,groupName
+Ball possession,71%,29%,1,Possession
+Total shots,19,2,1,Shots
+Shots on target,6,1,1,Shots
+Shots off target,4,1,1,Shots
+Blocked shots,9,0,1,Shots
+Corner kicks,10,3,1,TVData
+Fouls,17,12,1,TVData
+Yellow cards,3,2,1,TVData
+Free kicks,11,15,2,TVData
+Throw-ins,40,9,1,TVData
+Goal kicks,1,7,2,TVData
+Shots inside box,11,1,1,Shots extra
+Shots outside box,8,1,1,Shots extra
+Goalkeeper saves,1,6,2,Shots extra
+Passes,592,248,1,Passes
+Accurate passes,491 (83%),146 (59%),1,Passes
+Long balls,48/74 (65%),17/60 (28%),1,Passes
+Crosses,6/31 (19%),2/7 (29%),2,Passes
+Dribbles,10/16 (63%),3/5 (60%),1,Duels
+Possession lost,181,151,1,Duels
+Duels won,67,72,2,Duels
+Aerials won,24,24,3,Duels
+Tackles,22,31,2,Defending
+Interceptions,5,12,2,Defending
+Clearances,2,25,2,Defending
+Ball possession,69%,31%,1,Possession
+Total shots,8,2,1,Shots
+Shots on target,3,1,1,Shots
+Shots off target,2,1,1,Shots
+Blocked shots,3,0,1,Shots
+Corner kicks,2,2,3,TVData
+Yellow cards,1,1,3,TVData
+Free kicks,7,7,3,TVData
+Throw-ins,19,4,1,TVData
+Goal kicks,1,4,2,TVData
+Shots inside box,5,1,1,Shots extra
+Shots outside box,3,1,1,Shots extra
+Goalkeeper saves,1,3,2,Shots extra
+Passes,316,146,1,Passes
+Accurate passes,260 (82%),90 (62%),2,Passes
+Long balls,27/41 (66%),8/31 (26%),1,Passes
+Crosses,1/8 (13%),1/3 (33%),2,Passes
+Dribbles,2/6 (33%),2/3 (67%),2,Duels
+Possession lost,91,81,1,Duels
+Duels won,33,36,2,Duels
+Aerials won,13,12,1,Duels
+Tackles,11,15,2,Defending
+Interceptions,3,6,2,Defending
+Clearances,1,12,2,Defending
+Ball possession,74%,26%,1,Possession
+Total shots,11,0,1,Shots
+Shots on target,3,0,1,Shots
+Shots off target,2,0,1,Shots
+Blocked shots,6,0,1,Shots
+Corner kicks,8,1,1,TVData
+Yellow cards,2,1,1,TVData
+Free kicks,4,8,2,TVData
+Throw-ins,21,5,1,TVData
+Goal kicks,0,3,2,TVData
+Shots inside box,6,0,1,Shots extra
+Shots outside box,5,0,1,Shots extra
+Goalkeeper saves,0,3,2,Shots extra
+Passes,276,102,1,Passes
+Accurate passes,231 (84%),56 (55%),2,Passes
+Long balls,21/33 (64%),9/29 (31%),1,Passes
+Crosses,5/23 (22%),1/4 (25%),2,Passes
+Dribbles,8/10 (80%),1/2 (50%),1,Duels
+Possession lost,90,70,1,Duels
+Duels won,34,36,2,Duels
+Aerials won,11,12,2,Duels
+Tackles,11,16,2,Defending
+Interceptions,2,6,2,Defending
+Clearances,1,13,2,Defending

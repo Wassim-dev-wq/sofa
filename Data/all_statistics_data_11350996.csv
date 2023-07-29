@@ -1,0 +1,9 @@
+name,home,away,compareCode,groupName
+Ball possession,59%,41%,1,Possession
+Corner kicks,6,0,1,TVData
+Fouls,9,18,2,TVData
+Yellow cards,0,2,2,TVData
+Red cards,0,0,3,TVData
+Free kicks,18,12,1,TVData
+Throw-ins,37,28,1,TVData
+Goal kicks,2,11,2,TVData

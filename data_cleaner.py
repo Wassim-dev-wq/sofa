@@ -4,9 +4,13 @@ import pandas as pd
 def all_statistics_cleaner(id_value):
     # Read the csv file
     df = pd.read_csv(f'Data/all_statistics_data_{id_value}.csv')
-    # Drop the 'groupName' column
-    df = df.drop('groupName', axis=1)
-    df = df.drop('compareCode', axis=1)
+    columns_to_drop = ['groupName', 'compareCode']
+    # Drop the columns
+    for col in columns_to_drop:
+        try:
+            df = df.drop(col, axis=1)
+        except KeyError:
+            pass  # do nothing if the column is not in the dataframe
     # Write the dataframe back to the csv
     df.to_csv(f'Cleaned Data/all_statistics_data_{id_value}.csv', index=False)
 
@@ -59,8 +63,7 @@ def event_h2h_cleaner(id_value):
         'tournament.uniqueTournament.userCount','tournament.uniqueTournament.displayInverseHomeAwayTeams',
         'tournament.priority','roundInfo.round',
         'homeTeam.shortName','homeTeam.userCount',
-        'awayTeam.shortName','awayTeam.sport.id',
-        'awayTeam.userCount','coverage',
+        'awayTeam.shortName','awayTeam.sport.id','coverage',
         'roundInfo.slug'
     ]
 
@@ -161,15 +164,23 @@ def event_data_cleaner(id_value):
         'tournament.uniqueTournament.category.name',
         'tournament.priority',
         'tournament.competitionType',
-
+        'currentPeriodStartTimestamp','homeTeam.sport.name',
+        'homeTeam.sport.slug','homeTeam.sport.id',
+        'homeTeam.manager.id','homeTeam.id',
+        'awayTeam.manager.id','customId',
+        'awayTeam.type','awayTeam.id',
+        'time.currentPeriodStartTimestamp'
     ]
 
     # Drop the columns
-    df = df.drop(columns_to_drop, axis=1)
+    for col in columns_to_drop:
+        try:
+            df = df.drop(col, axis=1)
+        except KeyError:
+            pass  # do nothing if the column is not in the dataframe
 
     # Write the dataframe back to the csv
     df.to_csv(f'Cleaned Data/event_data_{id_value}.csv', index=False)
-
 def past_games_cleaner(id_value):
     # Read the csv file
     df = pd.read_csv(f'Data/past_games_data_{id_value}.csv')
